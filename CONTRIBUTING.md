@@ -32,7 +32,7 @@ Thank you for your interest in contributing! This guide applies to all repositor
 
 1. PRs require at least 1 approving review
 2. All conversations must be resolved before merge
-3. Keep PRs focused — one feature or fix per PR
+3. Keep PRs focused - one feature or fix per PR
 4. Update documentation if your change affects usage
 
 ## Code of Conduct

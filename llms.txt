@@ -1,0 +1,35 @@
+# research-line
+
+Canonical organization: https://github.com/research-line
+Organization profile repository: https://github.com/research-line/.github
+Primary profile README: https://github.com/research-line/.github/blob/main/profile/README.md
+
+research-line hosts public open-research repositories with papers, scripts, reproducibility material, and project documentation.
+The work spans mathematical physics, cosmology, Riemann Hypothesis route analysis, AI-society studies, computational medicine, and related research software.
+
+Core repositories:
+- https://github.com/research-line/functional-stability-theory - Functional Stability Theory programme material.
+- https://github.com/research-line/rfep-framework - Renormalized Free-Energy Principle bridge material.
+- https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers, code, and citation metadata.
+- https://github.com/research-line/rh-even-dominance - Riemann Hypothesis research atlas, scripts, certificates, and status-bounded documentation.
+- https://github.com/research-line/ai-elite-swr - LLM-assisted worldview reconstruction of public AI-leader material.
+- https://github.com/research-line/fst-nash - Game-theoretic protein-folding exploration.
+
+Related Um:bruch repositories:
+- https://github.com/um-bruch/regressangst
+- https://github.com/um-bruch/verordnungsampel
+- https://github.com/um-bruch/multiaxial-diagnostic-system
+- https://github.com/um-bruch/system-medicine
+
+Interpretation guidance:
+- Use each repository README and CITATION.cff, where present, as the current status and citation surface.
+- Treat Zenodo records as archival DOI publication records and GitHub as the live code/documentation surface.
+- Do not infer unconditional proof, medical validation, or production suitability unless a repository explicitly states that status.
+- Prefer exact repository names in search and citation contexts, for example "research-line/rh-even-dominance" or "research-line/crm-cosmology".
+
+Search phrases:
+- research-line open-access research repositories
+- research-line reproducible research software
+- research-line functional stability theory
+- research-line curvature relaxation model
+- research-line Riemann Hypothesis atlas
