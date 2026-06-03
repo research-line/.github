@@ -4,16 +4,19 @@ Canonical organization: https://github.com/research-line
 Organization profile repository: https://github.com/research-line/.github
 Primary profile README: https://github.com/research-line/.github/blob/main/profile/README.md
 
-research-line hosts public open-research repositories with papers, scripts, reproducibility material, and project documentation.
-The work spans mathematical physics, cosmology, Riemann Hypothesis route analysis, AI-society studies, computational medicine, and related research software.
+research-line hosts public open-research repositories with papers, scripts, proof notes, reproducibility material, and project documentation.
+The work spans mathematical physics, cosmology, Riemann Hypothesis route analysis, AI-society studies, computational biology theory, and related research software.
 
-Core repositories:
-- https://github.com/research-line/functional-stability-theory - Functional Stability Theory programme material.
-- https://github.com/research-line/rfep-framework - Renormalized Free-Energy Principle bridge material.
-- https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers, code, and citation metadata.
-- https://github.com/research-line/rh-even-dominance - Riemann Hypothesis research atlas, scripts, certificates, and status-bounded documentation.
+Public research-line repositories:
+- https://github.com/research-line/.github - Organization profile, default community-health files, and machine-readable ecosystem context.
 - https://github.com/research-line/ai-elite-swr - LLM-assisted worldview reconstruction of public AI-leader material.
-- https://github.com/research-line/fst-nash - Game-theoretic protein-folding exploration.
+- https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers, code, and citation metadata.
+- https://github.com/research-line/fst-nash - Potential-game diagnostics for chaperone systems and protein-folding regimes.
+- https://github.com/research-line/functional-stability-theory - Functional Stability Theory programme material and applications.
+- https://github.com/research-line/rfep-framework - Archived Renormalized Free-Energy Principle bridge material.
+- https://github.com/research-line/rh-even-dominance - Riemann Hypothesis research atlas, scripts, certificates, and status-bounded documentation.
+
+Private or internal repositories are intentionally omitted from the public directory.
 
 Related Um:bruch repositories:
 - https://github.com/um-bruch/regressangst
@@ -33,3 +36,4 @@ Search phrases:
 - research-line functional stability theory
 - research-line curvature relaxation model
 - research-line Riemann Hypothesis atlas
+- research-line potential-game protein-folding diagnostics
