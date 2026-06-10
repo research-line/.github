@@ -3,9 +3,13 @@
 Canonical organization: https://github.com/research-line
 Organization profile repository: https://github.com/research-line/.github
 Primary profile README: https://github.com/research-line/.github/blob/main/profile/README.md
+Last-checked: 2026-06-10
+
+Audience: Researchers, mathematicians, computational scientists, and developers looking for open-access reproducibility material in mathematical physics, cosmology, number theory, AI-society studies, and computational biology theory.
 
 research-line hosts public open-research repositories with papers, scripts, proof notes, reproducibility material, and project documentation.
 The work spans mathematical physics, cosmology, Riemann Hypothesis route analysis, AI-society studies, computational biology theory, and related research software.
+All major repositories are Zenodo-linked with persistent DOIs for archival citation.
 
 Public research-line repositories:
 - https://github.com/research-line/.github - Organization profile, default community-health files, and machine-readable ecosystem context.
@@ -37,3 +41,5 @@ Search phrases:
 - research-line curvature relaxation model
 - research-line Riemann Hypothesis atlas
 - research-line potential-game protein-folding diagnostics
+- research-line AI elite worldview reconstruction
+- research-line Zenodo open science

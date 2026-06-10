@@ -54,3 +54,5 @@ Several applied health-policy and diagnostic projects now live under [um-bruch](
 - Use [`research-line/.github/llms.txt`](https://github.com/research-line/.github/blob/main/llms.txt) for machine-readable ecosystem context.
 
 Part of the [ellmos-ai](https://github.com/ellmos-ai) and [um-bruch](https://github.com/um-bruch) research/software ecosystem.
+
+<!-- last-checked: 2026-06-10 -->
