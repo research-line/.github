@@ -55,4 +55,4 @@ Several applied health-policy and diagnostic projects now live under [um-bruch](
 
 Part of the [ellmos-ai](https://github.com/ellmos-ai) and [um-bruch](https://github.com/um-bruch) research/software ecosystem.
 
-<!-- last-checked: 2026-06-10 -->
+<!-- last-checked: 2026-06-11 -->
