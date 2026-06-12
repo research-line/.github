@@ -1,7 +1,7 @@
 # research-line
 
 <p align="center">
-  <img src="logo.jpg" alt="research-line logo" width="180">
+  <img src="logo.jpg" alt="research-line logo" width="925">
 </p>
 
 **Open-access research repositories with papers, computational notebooks, proof notes, and reproducibility material.**
