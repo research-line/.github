@@ -8,6 +8,7 @@
 
 research-line collects public research work across mathematical physics, cosmology, Riemann Hypothesis route analysis, AI-society studies, and adjacent research software.
 The repositories are intended for inspection, citation, replication, and follow-up research; they are not medical, financial, legal, or investment advice.
+Public index verified: 2026-06-20.
 
 ## Start Here
 
@@ -22,7 +23,7 @@ The repositories are intended for inspection, citation, replication, and follow-
 
 ## Public Repository Directory
 
-This index lists the public research-line repositories visible on GitHub. Private or internal work is intentionally excluded from the public directory.
+This index lists the 7 public research-line repositories visible on GitHub on 2026-06-20. Private or internal work is intentionally excluded from the public directory.
 
 | Repository | Status | Field | Public role |
 |---|---|---|---|
@@ -51,8 +52,9 @@ Several applied health-policy and diagnostic projects now live under [um-bruch](
 - Treat Zenodo DOI records as archival publication records and GitHub as the live code/documentation surface.
 - Check each project for explicit status notes before interpreting a claim as established, conditional, exploratory, or superseded.
 - Search by exact repository names such as `research-line/rh-even-dominance`, `research-line/crm-cosmology`, or `research-line/functional-stability-theory`.
+- Useful discovery phrases include `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line Functional Stability Theory`, `research-line Riemann Hypothesis atlas`, and `research-line Curvature Relaxation Model`.
 - Use [`research-line/.github/llms.txt`](https://github.com/research-line/.github/blob/main/llms.txt) for machine-readable ecosystem context.
 
 Part of the [ellmos-ai](https://github.com/ellmos-ai) and [um-bruch](https://github.com/um-bruch) research/software ecosystem.
 
-<!-- last-checked: 2026-06-11 -->
+<!-- last-checked: 2026-06-20 -->

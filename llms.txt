@@ -1,4 +1,4 @@
-## Last-checked: 2026-06-11
+## Last-checked: 2026-06-20
 
 # research-line
 
@@ -15,6 +15,7 @@ All major repositories are Zenodo-linked with persistent DOIs for archival citat
 Researchers, mathematicians, computational scientists, and developers looking for open-access reproducibility material in mathematical physics, cosmology, number theory, AI-society studies, and computational biology theory.
 
 Public research-line repositories:
+- Public repository count: 7
 - https://github.com/research-line/.github - Organization profile, default community-health files, and machine-readable ecosystem context.
 - https://github.com/research-line/ai-elite-swr - LLM-assisted worldview reconstruction of public AI-leader material.
 - https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers, code, and citation metadata.
@@ -48,4 +49,7 @@ research-line Riemann Hypothesis atlas
 research-line potential-game protein-folding diagnostics
 research-line AI elite worldview reconstruction
 research-line Zenodo open science
+research-line Zenodo DOI reproducible research
+research-line open-access research software
+research-line fst-nash
 ```
