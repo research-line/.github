@@ -1,4 +1,4 @@
-## Last-checked: 2026-06-20
+## Last-checked: 2026-07-05
 
 # research-line
 
@@ -17,12 +17,12 @@ Researchers, mathematicians, computational scientists, and developers looking fo
 Public research-line repositories:
 - Public repository count: 7
 - https://github.com/research-line/.github - Organization profile, default community-health files, and machine-readable ecosystem context.
-- https://github.com/research-line/ai-elite-swr - LLM-assisted worldview reconstruction of public AI-leader material.
+- https://github.com/research-line/ai-elite-swr - LLM-assisted worldview reconstruction with prompts, validation outputs, figures, and reproducible research data.
 - https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers, code, and citation metadata.
 - https://github.com/research-line/fst-nash - Potential-game diagnostics for chaperone systems and protein-folding regimes.
-- https://github.com/research-line/functional-stability-theory - Functional Stability Theory programme material and applications.
+- https://github.com/research-line/functional-stability-theory - Functional Stability Theory programme material, domain applications, and reproducibility surfaces.
 - https://github.com/research-line/rfep-framework - Archived Renormalized Free-Energy Principle bridge material.
-- https://github.com/research-line/rh-even-dominance - Riemann Hypothesis research atlas, scripts, certificates, and status-bounded documentation.
+- https://github.com/research-line/rh-even-dominance - Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit status boundaries.
 
 Private or internal repositories are intentionally omitted from the public directory.
 
@@ -48,8 +48,11 @@ research-line curvature relaxation model
 research-line Riemann Hypothesis atlas
 research-line potential-game protein-folding diagnostics
 research-line AI elite worldview reconstruction
+research-line AI governance belief systems
 research-line Zenodo open science
 research-line Zenodo DOI reproducible research
+research-line proof notes Zenodo DOI records
 research-line open-access research software
+research-line conditional Riemann Hypothesis proof audit
 research-line fst-nash
 ```
