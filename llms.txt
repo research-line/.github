@@ -1,10 +1,11 @@
-## Last-checked: 2026-07-16
+## Last-checked: 2026-07-25
 
 # research-line
 
 Canonical organization: https://github.com/research-line
 Organization profile repository: https://github.com/research-line/.github
-Primary profile README: https://github.com/research-line/.github/blob/main/profile/README.md
+Primary profile README (EN): https://github.com/research-line/.github/blob/main/profile/README.md
+Primary profile README (DE): https://github.com/research-line/.github/blob/main/profile/README_de.md
 
 research-line hosts public open-research repositories with papers, scripts, proof notes, reproducibility material, and project documentation.
 The work spans mathematical physics, cosmology, Riemann Hypothesis route analysis, AI-society studies, computational biology theory, and related research software.
@@ -26,17 +27,28 @@ Public research-line repositories:
 
 Private or internal repositories are intentionally omitted from the public directory.
 
-Recent public activity snapshot:
-- 2026-07-16: https://github.com/research-line/functional-stability-theory - main FST hub for domain proofs, applications, and reproducibility material.
-- 2026-07-15: https://github.com/research-line/ai-elite-swr - current AI-society research surface for worldview reconstruction material.
-- 2026-07-14: https://github.com/research-line/fst-nash - current potential-game protein-folding diagnostics surface.
-- 2026-07-14: https://github.com/research-line/crm-cosmology - current Curvature Relaxation Model surface for modified-gravity and observational-check context.
+Recent public activity snapshot (verified 2026-07-25):
+- 2026-07-25: https://github.com/research-line/ai-elite-swr - Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data.
+- 2026-07-25: https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC.
+- 2026-07-23: https://github.com/research-line/functional-stability-theory - main FST hub for domain proofs, applications, and reproducibility material.
+- 2026-07-22: https://github.com/research-line/fst-nash - current potential-game protein-folding diagnostics surface.
+- 2026-07-04: https://github.com/research-line/rh-even-dominance - conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries.
 
 Related Um:bruch repositories:
 - https://github.com/um-bruch/regressangst
 - https://github.com/um-bruch/verordnungsampel
 - https://github.com/um-bruch/multiaxial-diagnostic-system
 - https://github.com/um-bruch/system-medicine
+
+Sister organizations in the open-bricks umbrella:
+- https://github.com/open-bricks
+- https://github.com/ellmos-ai
+- https://github.com/file-bricks
+- https://github.com/doc-bricks
+- https://github.com/dev-bricks
+- https://github.com/biotec-line
+- https://github.com/entertain-and-more
+- https://github.com/assistassets-ai
 
 Interpretation guidance:
 - Use each repository README and CITATION.cff, where present, as the current status and citation surface.
