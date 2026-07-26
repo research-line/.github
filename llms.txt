@@ -1,4 +1,4 @@
-## Last-checked: 2026-07-25
+## Last-checked: 2026-07-26
 
 # research-line
 
@@ -27,11 +27,11 @@ Public research-line repositories:
 
 Private or internal repositories are intentionally omitted from the public directory.
 
-Recent public activity snapshot (verified 2026-07-25):
+Recent public activity snapshot (verified 2026-07-26):
+- 2026-07-26: https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC.
 - 2026-07-25: https://github.com/research-line/ai-elite-swr - Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data.
-- 2026-07-25: https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC.
-- 2026-07-23: https://github.com/research-line/functional-stability-theory - main FST hub for domain proofs, applications, and reproducibility material.
-- 2026-07-22: https://github.com/research-line/fst-nash - current potential-game protein-folding diagnostics surface.
+- 2026-07-25: https://github.com/research-line/functional-stability-theory - main FST hub for domain proofs, applications, and reproducibility material.
+- 2026-07-25: https://github.com/research-line/fst-nash - current potential-game protein-folding diagnostics surface.
 - 2026-07-04: https://github.com/research-line/rh-even-dominance - conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries.
 
 Related Um:bruch repositories:

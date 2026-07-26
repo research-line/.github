@@ -20,7 +20,7 @@
 
 > [!NOTE]
 > Machine-readable ecosystem context and repository mappings for AI agents and automated tools are available in **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)**.
-> Public index verified against live GitHub API: **2026-07-25**.
+> Public index verified against live GitHub API: **2026-07-26**.
 
 > [!IMPORTANT]
 > **Open Science & Status Boundaries:** Repositories in this organization contain research code, proof audits, preprints, and computational notebooks. Archival snapshot DOIs are hosted on Zenodo. Always check individual repository READMEs and `CITATION.cff` files for specific status boundaries (established, conditional, exploratory, or archived). None of the materials constitute medical, legal, financial, or investment advice.
@@ -79,7 +79,7 @@ flowchart TD
 
 ## Public Repository Directory
 
-This index covers all 7 public `research-line` repositories visible on GitHub as of **2026-07-25**. Private or internal draft repositories are intentionally excluded from the public directory.
+This index covers all 7 public `research-line` repositories visible on GitHub as of **2026-07-26**. Private or internal draft repositories are intentionally excluded from the public directory.
 
 | Repository | Status | Domain | Public Role & Description |
 |---|---|---|---|
@@ -127,16 +127,16 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 
 ## Current Public Activity Snapshot
 
-Live activity verified via GitHub API on **2026-07-25**:
+Live activity verified via GitHub API on **2026-07-26**:
 
 | Repository | Last Public Push | Focus & Navigation Purpose |
 |---|---:|---|
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-07-26** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-07-25** | Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-07-25** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-07-23** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-07-22** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
-| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-07-04** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-07-25** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-07-25** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
 | **[.github](https://github.com/research-line/.github)** | **2026-07-25** | Organization profile, community health files, and machine-readable `llms.txt` |
+| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-07-04** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
 
 ---
 
@@ -150,4 +150,4 @@ Live activity verified via GitHub API on **2026-07-25**:
 
 ---
 
-<!-- last-checked: 2026-07-25 -->
+<!-- last-checked: 2026-07-26 -->
