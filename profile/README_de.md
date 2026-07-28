@@ -9,18 +9,19 @@
   <a href="https://github.com/open-bricks"><img src="https://img.shields.io/badge/Ecosystem-open--bricks-blue?style=for-the-badge" alt="Ecosystem open-bricks"></a>
   <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Domain-Open_Science_%26_Math_Physics-purple?style=for-the-badge" alt="Domain Open Science"></a>
   <a href="https://zenodo.org"><img src="https://img.shields.io/badge/Zenodo-DOIs_Archival-0298c3?style=for-the-badge&logo=zenodo" alt="Zenodo Archival DOIs"></a>
+  <a href="https://github.com/research-line/.github/blob/main/llms.txt"><img src="https://img.shields.io/badge/LLM--Kontext-llms.txt-412991?style=for-the-badge" alt="LLM Kontext llms.txt"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/Lizenz-CC--BY_4.0_%2F_MIT-green?style=for-the-badge" alt="Lizenz CC-BY 4.0 / MIT"></a>
 </p>
 
 <p align="center"><b>🇬🇧 <a href="README.md">English Version</a></b></p>
 
-**Open-Access-Forschungsrepsitories mit Preprints, mathematischen Beweisnotizen, Jupyter Notebooks, reproduzierbaren Forschungsdaten und Zenodo-DOI-Archivierung.**
+**Open-Access-Forschungsrepositories mit Preprints, mathematischen Beweisnotizen, Jupyter Notebooks, reproduzierbaren Forschungsdaten und Zenodo-DOI-Archivierung.**
 
 `research-line` bündelt öffentliche wissenschaftliche Arbeiten aus der mathematischen Physik (Functional Stability Theory), der Kosmologie modifizierter Gravitation (Curvature Relaxation Model), der routenbezogenen Riemann-Hypothesen-Analyse, der KI-Gesellschaftsforschung (Synthetic Worldview Reconstruction) und der theoretischen Computerbiologie (FST-Nash Chaperon-Dynamiken). Alle Repositories dienen der Inspektion, der Open-Science-Prüfung, dem Peer Review, der Zitation und der weiterführenden Forschung.
 
 > [!NOTE]
 > Maschinenlesbarer Ökosystem-Kontext für KI-Agenten, Crawler und automatisierte Tools ist unter **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)** verfügbar.
-> Öffentlicher Index geprüft gegen live GitHub-API: **26.07.2026**.
+> Öffentlicher Index geprüft gegen live GitHub-API: **29.07.2026**.
 
 > [!IMPORTANT]
 > **Open Science & Statusgrenzen:** Die Repositories dieser Organisation enthalten Forschungscode, Beweisaudits, Preprints und Berechnungsnotebooks. Archivarische Snapshot-DOIs sind auf Zenodo hinterlegt. Bitte beachten Sie die repo-spezifischen `README.md`- und `CITATION.cff`-Dateien bezüglich des konkreten Status (etabliert, konditional, explorativ oder archiviert). Keine der Inhalten stellt medizinische, rechtliche oder finanzielle Beratung dar.
@@ -79,7 +80,7 @@ flowchart TD
 
 ## Öffentliches Repository-Verzeichnis
 
-Dieser Index umfasst alle 7 öffentlichen Repositories von `research-line` (Stand: **26.07.2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
+Dieser Index umfasst alle 7 öffentlichen Repositories von `research-line` (Stand: **29.07.2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
 
 | Repository | Status | Fachbereich | Rolle & Beschreibung |
 |---|---|---|---|
@@ -127,17 +128,17 @@ Einige angewandte Gesundheitspolitik-, Verordnungsrisiko- und Diagnostikprojekte
 
 ## Aktueller Aktivitäts-Snapshot
 
-Verifizierte Stand-Metadaten via GitHub-API am **26.07.2026**:
+Verifizierte Stand-Metadaten via GitHub-API am **29.07.2026**:
 
 | Repository | Letzter Push | Ausrichtung & Navigation |
 |---|---:|---|
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **26.07.2026** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
-| **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **25.07.2026** | KI-Elite Weltbild-Rekonstruktion: Preprints, Prompts, Validierungs-Daten & Abbildungen |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **25.07.2026** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **25.07.2026** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
-| **[.github](https://github.com/research-line/.github)** | **25.07.2026** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
-| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **04.07.2026** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
+| **[.github](https://github.com/research-line/.github)** | **29.07.2026** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **27.07.2026** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **27.07.2026** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
+| **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **27.07.2026** | KI-Elite Weltbild-Rekonstruktion: Preprints, Prompts, Validierungs-Daten & Abbildungen |
+| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **27.07.2026** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **27.07.2026** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
 
 ---
 
-<!-- last-checked: 2026-07-26 -->
+<!-- last-checked: 2026-07-29 -->
