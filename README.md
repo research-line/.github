@@ -2,7 +2,7 @@
 
 This repository maintains the public GitHub start page, default community-health files, and machine-readable index for [research-line](https://github.com/research-line).
 
-Public index last checked: **2026-07-29**
+Public index last checked: **2026-07-30**
 
 ## Public Repository Directory
 
@@ -28,11 +28,11 @@ This directory mirrors the 7 public repositories currently visible in the resear
 
 ## Current Public Activity Snapshot
 
-Recent public pushes verified via GitHub API on **2026-07-29**:
+Recent public pushes verified via GitHub API on **2026-07-30**:
 
 | Repository | Last Public Push | Why It Matters for Navigation |
 |---|---:|---|
-| **[.github](https://github.com/research-line/.github)** | **2026-07-29** | Organization profile, community health files, and machine-readable `llms.txt` |
+| **[.github](https://github.com/research-line/.github)** | **2026-07-30** | Organization profile, community health files, and machine-readable `llms.txt` |
 | **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-07-27** | Cosmology surface for Curvature Relaxation Model papers, scripts, and observational-check context |
 | **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-07-27** | Computational-biology theory surface for potential-game protein-folding diagnostics |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-07-27** | AI-society research surface for Synthetic Worldview Reconstruction material, prompts, and validation outputs |
@@ -45,4 +45,4 @@ Use exact repository names when searching or citing this organization: `research
 
 Core search phrases: `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line proof notes Zenodo DOI records`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line conditional Riemann Hypothesis proof audit`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line potential-game protein-folding diagnostics`, `research-line chaperone systems FST-Nash`, `research-line AI elite worldview reconstruction`.
 
-<!-- last-checked: 2026-07-29 -->
+<!-- last-checked: 2026-07-30 -->

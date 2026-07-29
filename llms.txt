@@ -1,4 +1,4 @@
-## Last-checked: 2026-07-29
+## Last-checked: 2026-07-30
 
 # research-line
 
@@ -27,8 +27,8 @@ Public research-line repositories:
 
 Private or internal repositories are intentionally omitted from the public directory.
 
-Recent public activity snapshot (verified 2026-07-29):
-- 2026-07-29: https://github.com/research-line/.github - Organization profile, community health files, and machine-readable llms.txt.
+Recent public activity snapshot (verified 2026-07-30):
+- 2026-07-30: https://github.com/research-line/.github - Organization profile, community health files, and machine-readable llms.txt.
 - 2026-07-27: https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC.
 - 2026-07-27: https://github.com/research-line/fst-nash - Potential-game diagnostics for chaperone systems and protein-folding regimes.
 - 2026-07-27: https://github.com/research-line/ai-elite-swr - Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data.
