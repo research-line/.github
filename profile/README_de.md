@@ -21,7 +21,7 @@
 
 > [!NOTE]
 > Maschinenlesbarer Ökosystem-Kontext für KI-Agenten, Crawler und automatisierte Tools ist unter **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)** verfügbar.
-> Öffentlicher Index geprüft gegen live GitHub-API: **01.08.2026**.
+> Öffentlicher Index geprüft gegen live GitHub-API: **06.08.2026**.
 
 > [!IMPORTANT]
 > **Open Science & Statusgrenzen:** Die Repositories dieser Organisation enthalten Forschungscode, Beweisaudits, Preprints und Berechnungsnotebooks. Archivarische Snapshot-DOIs sind auf Zenodo hinterlegt. Bitte beachten Sie die repo-spezifischen `README.md`- und `CITATION.cff`-Dateien bezüglich des konkreten Status (etabliert, konditional, explorativ oder archiviert). Keine der Inhalten stellt medizinische, rechtliche oder finanzielle Beratung dar.
@@ -80,7 +80,7 @@ flowchart TD
 
 ## Öffentliches Repository-Verzeichnis
 
-Dieser Index umfasst alle 7 öffentlichen Repositories von `research-line` (Stand: **01.08.2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
+Dieser Index umfasst alle 7 öffentlichen Repositories von `research-line` (Stand: **06.08.2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
 
 | Repository | Status | Fachbereich | Rolle & Beschreibung |
 |---|---|---|---|
@@ -128,17 +128,17 @@ Einige angewandte Gesundheitspolitik-, Verordnungsrisiko- und Diagnostikprojekte
 
 ## Aktueller Aktivitäts-Snapshot
 
-Verifizierte Stand-Metadaten via GitHub-API am **01.08.2026**:
+Verifizierte Stand-Metadaten via GitHub-API am **06.08.2026**:
 
 | Repository | Letzter Push | Ausrichtung & Navigation |
 |---|---:|---|
-| **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **31.07.2026** | KI-Elite-Weltbildrekonstruktion: Preprints, Prompts, Validierungsdaten & Abbildungen |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **30.07.2026** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
-| **[.github](https://github.com/research-line/.github)** | **29.07.2026** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
+| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **05.08.2026** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **05.08.2026** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
+| **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **05.08.2026** | KI-Elite-Weltbildrekonstruktion: Preprints, Prompts, Validierungsdaten & Abbildungen |
+| **[.github](https://github.com/research-line/.github)** | **05.08.2026** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **05.08.2026** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
 | **[fst-nash](https://github.com/research-line/fst-nash)** | **27.07.2026** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
-| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **27.07.2026** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **27.07.2026** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
 
 ---
 
-<!-- last-checked: 2026-08-01 -->
+<!-- last-checked: 2026-08-06 -->
