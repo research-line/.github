@@ -21,7 +21,7 @@
 
 > [!NOTE]
 > Maschinenlesbarer Ökosystem-Kontext für KI-Agenten, Crawler und automatisierte Tools ist unter **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)** verfügbar.
-> Öffentlicher Index geprüft gegen live GitHub-API: **06.08.2026**.
+> Öffentlicher Index geprüft gegen live GitHub-API: **14.08.2026**.
 
 > [!IMPORTANT]
 > **Open Science & Statusgrenzen:** Die Repositories dieser Organisation enthalten Forschungscode, Beweisaudits, Preprints und Berechnungsnotebooks. Archivarische Snapshot-DOIs sind auf Zenodo hinterlegt. Bitte beachten Sie die repo-spezifischen `README.md`- und `CITATION.cff`-Dateien bezüglich des konkreten Status (etabliert, konditional, explorativ oder archiviert). Keine der Inhalten stellt medizinische, rechtliche oder finanzielle Beratung dar.
@@ -80,7 +80,7 @@ flowchart TD
 
 ## Öffentliches Repository-Verzeichnis
 
-Dieser Index umfasst alle 7 öffentlichen Repositories von `research-line` (Stand: **06.08.2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
+Dieser Index umfasst alle 7 öffentlichen Repositories von `research-line` (Stand: **14.08.2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
 
 | Repository | Status | Fachbereich | Rolle & Beschreibung |
 |---|---|---|---|
@@ -117,10 +117,10 @@ Einige angewandte Gesundheitspolitik-, Verordnungsrisiko- und Diagnostikprojekte
 | **[ellmos-ai](https://github.com/ellmos-ai)** | LLM-OS / KI-Infra | Agenten-Betriebssysteme (BACH, Rinnsal), Speicher-Säule (.MEMORY, USMC, gardener), MCP-Server |
 | **[file-bricks](https://github.com/file-bricks)** | Desktop-Tools | Local-First PySide6 Desktop-Dateiverwaltungs-, Dubletten- und Speicher-Apps |
 | **[doc-bricks](https://github.com/doc-bricks)** | Dokumenten-Tools | Markdown-Tools, PDF-Verarbeitung, OCR-Engines und Dokumenten-Workflows |
-| **[dev-bricks](https://github.com/dev-bricks)** | Entwickler-Tools | Entwicklerwerkzeuge und Cross-Agent-Infrastruktur (lock-master, ticket-master, sync-master) |
+| **[dev-bricks](https://github.com/dev-bricks)** | Entwickler-Tools | Entwicklerwerkzeuge und IDEs (DevCenter, CodeBox, pythonbox, MethodenAnalyser, CareCenter) |
 | **[research-line](https://github.com/research-line)** | Open Science | Open-Access-Forschung in mathematischer Physik, Kosmologie, Zahlentheorie & KI-Gesellschaft |
 | **[biotec-line](https://github.com/biotec-line)** | Bioinformatik | Genomische Varianten-Tools, VCF-Verarbeitung und klinische Genetik |
-| **[entertain-and-more](https://github.com/entertain-and-more)** | Entertainment | Spiele mit KI-Integration, interaktives Schach (ChatAndChess) und Podcast-Tools |
+| **[entertain-and-more](https://github.com/entertain-and-more)** | Entertainment | Spiele mit KI-Integration, interaktives Schach (ChatAndChess) und Audio-Tools (KlangpultLight) |
 | **[assistassets-ai](https://github.com/assistassets-ai)** | Finanz-KI | Local-First Finanzanalysen, Indikatoren und Assistenz-Tools (FinancialProof) |
 | **[um-bruch](https://github.com/um-bruch)** | Angewandte Gesundheit | Studien zur Versorgungssicherheit, Verordnungsampel und Systemmedizin |
 
@@ -128,17 +128,17 @@ Einige angewandte Gesundheitspolitik-, Verordnungsrisiko- und Diagnostikprojekte
 
 ## Aktueller Aktivitäts-Snapshot
 
-Verifizierte Stand-Metadaten via GitHub-API am **06.08.2026**:
+Verifizierte Stand-Metadaten via GitHub-API am **14.08.2026**:
 
 | Repository | Letzter Push | Ausrichtung & Navigation |
 |---|---:|---|
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **13.08.2026** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **13.08.2026** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **09.08.2026** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
 | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **05.08.2026** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **05.08.2026** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **05.08.2026** | KI-Elite-Weltbildrekonstruktion: Preprints, Prompts, Validierungsdaten & Abbildungen |
-| **[.github](https://github.com/research-line/.github)** | **05.08.2026** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **05.08.2026** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **27.07.2026** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
+| **[.github](https://github.com/research-line/.github)** | **14.08.2026** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
 
 ---
 
-<!-- last-checked: 2026-08-06 -->
+<!-- last-checked: 2026-08-14 -->

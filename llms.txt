@@ -1,4 +1,4 @@
-## Last-checked: 2026-08-06
+## Last-checked: 2026-08-14
 
 # research-line
 
@@ -27,13 +27,13 @@ Public research-line repositories:
 
 Private or internal repositories are intentionally omitted from the public directory.
 
-Recent public activity snapshot (verified 2026-08-06):
+Recent public activity snapshot (verified 2026-08-14):
+- 2026-08-14: https://github.com/research-line/.github - Organization profile, community health files, and machine-readable llms.txt.
+- 2026-08-13: https://github.com/research-line/fst-nash - Potential-game diagnostics for chaperone systems and protein-folding regimes.
+- 2026-08-13: https://github.com/research-line/functional-stability-theory - Main FST hub for domain proofs, applications, and reproducibility material.
+- 2026-08-09: https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC.
 - 2026-08-05: https://github.com/research-line/rh-even-dominance - Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries.
-- 2026-08-05: https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC.
 - 2026-08-05: https://github.com/research-line/ai-elite-swr - Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data.
-- 2026-08-05: https://github.com/research-line/.github - Organization profile, community health files, and machine-readable llms.txt.
-- 2026-08-05: https://github.com/research-line/functional-stability-theory - Main FST hub for domain proofs, applications, and reproducibility material.
-- 2026-07-27: https://github.com/research-line/fst-nash - Potential-game diagnostics for chaperone systems and protein-folding regimes.
 
 Related Um:bruch repositories:
 - https://github.com/um-bruch/regressangst
@@ -50,12 +50,13 @@ Sister organizations in the open-bricks umbrella:
 - https://github.com/biotec-line
 - https://github.com/entertain-and-more
 - https://github.com/assistassets-ai
+- https://github.com/um-bruch
 
 Interpretation guidance:
 - Use each repository README and CITATION.cff, where present, as the current status and citation surface.
 - Treat Zenodo records as archival DOI publication records and GitHub as the live code/documentation surface.
 - Do not infer unconditional proof, medical validation, or production suitability unless a repository explicitly states that status.
-- Prefer exact repository names in search and citation contexts, for example "research-line/rh-even-dominance" or "research-line/crm-cosmology".
+- Prefer exact repository names in search and citation contexts, for example "research-line/functional-stability-theory", "research-line/rh-even-dominance", or "research-line/crm-cosmology".
 
 ## Search Phrases
 

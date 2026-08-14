@@ -21,7 +21,7 @@
 
 > [!NOTE]
 > Machine-readable ecosystem context and repository mappings for AI agents and automated tools are available in **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)**.
-> Public index verified against live GitHub API: **2026-08-06**.
+> Public index verified against live GitHub API: **2026-08-14**.
 
 > [!IMPORTANT]
 > **Open Science & Status Boundaries:** Repositories in this organization contain research code, proof audits, preprints, and computational notebooks. Archival snapshot DOIs are hosted on Zenodo. Always check individual repository READMEs and `CITATION.cff` files for specific status boundaries (established, conditional, exploratory, or archived). None of the materials constitute medical, legal, financial, or investment advice.
@@ -80,7 +80,7 @@ flowchart TD
 
 ## Public Repository Directory
 
-This index covers all 7 public `research-line` repositories visible on GitHub as of **2026-08-06**. Private or internal draft repositories are intentionally excluded from the public directory.
+This index covers all 7 public `research-line` repositories visible on GitHub as of **2026-08-14**. Private or internal draft repositories are intentionally excluded from the public directory.
 
 | Repository | Status | Domain | Public Role & Description |
 |---|---|---|---|
@@ -96,7 +96,7 @@ This index covers all 7 public `research-line` repositories visible on GitHub as
 
 ## Related Um:bruch Applied Research
 
-Several applied health policy, prescribing risk, and diagnostic projects live under [um-bruch](https://github.com/um-bruch) as part of the wider open-research network.
+Several applied health policy, prescribing risk, and diagnostic projects live under [um-bruch](https://github.com/um-bruch) as part of the wider open-research network:
 
 | Repository | Domain | Description |
 |---|---|---|
@@ -117,10 +117,10 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 | **[ellmos-ai](https://github.com/ellmos-ai)** | LLM-OS / AI Infra | Agent operating systems (BACH, Rinnsal), memory pillar (.MEMORY, USMC, gardener), MCP servers |
 | **[file-bricks](https://github.com/file-bricks)** | Desktop Utilities | Local-first PySide6 desktop file management, duplicate detection, and storage apps |
 | **[doc-bricks](https://github.com/doc-bricks)** | Document Tools | Markdown tools, PDF processing, OCR engines, and document workflow software |
-| **[dev-bricks](https://github.com/dev-bricks)** | Developer Tools | Developer utilities and cross-agent infrastructure (lock-master, ticket-master, sync-master) |
+| **[dev-bricks](https://github.com/dev-bricks)** | Developer Tools | Developer utilities and IDEs (DevCenter, CodeBox, pythonbox, MethodenAnalyser, CareCenter) |
 | **[research-line](https://github.com/research-line)** | Open Science | Open-access research in mathematical physics, cosmology, number theory, and AI society |
 | **[biotec-line](https://github.com/biotec-line)** | Bioinformatics | Genomic variant tools, VCF processing, and clinical genetics software |
-| **[entertain-and-more](https://github.com/entertain-and-more)** | Entertainment | Games with AI integration, interactive chess (ChatAndChess), and podcast tools |
+| **[entertain-and-more](https://github.com/entertain-and-more)** | Entertainment | Games with AI integration, interactive chess (ChatAndChess), and audio tools (KlangpultLight) |
 | **[assistassets-ai](https://github.com/assistassets-ai)** | Financial AI | Local-first financial analysis, indicators, and assistant tools (FinancialProof) |
 | **[um-bruch](https://github.com/um-bruch)** | Applied Health | Public health policy studies, prescribing risk analysis, and systems medicine |
 
@@ -128,16 +128,16 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 
 ## Current Public Activity Snapshot
 
-Live activity verified via GitHub API on **2026-08-06**:
+Live activity verified via GitHub API on **2026-08-14**:
 
 | Repository | Last Public Push | Focus & Navigation Purpose |
 |---|---:|---|
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-13** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-08-13** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-08-09** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
 | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-08-05** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-08-05** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data |
-| **[.github](https://github.com/research-line/.github)** | **2026-08-05** | Organization profile, community health files, and machine-readable `llms.txt` |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-08-05** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-07-27** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
+| **[.github](https://github.com/research-line/.github)** | **2026-08-14** | Organization profile, community health files, and machine-readable `llms.txt` |
 
 ---
 
@@ -145,10 +145,10 @@ Live activity verified via GitHub API on **2026-08-06**:
 
 - **Current Status:** Prefer the repository `README.md` and `CITATION.cff` where present for official citation metadata and current status annotations.
 - **Archival Records:** Treat Zenodo DOI records as archival publication snapshots, while GitHub hosts live code, ongoing updates, and proof-audit updates.
-- **Search Terms:** Search by exact repository names such as `research-line/functional-stability-theory`, `research-line/crm-cosmology`, `research-line/rh-even-dominance`, or `research-line/ai-elite-swr`.
-- **Key Discovery Phrases:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`.
+- **Search Terms:** Search by exact repository names such as `research-line/functional-stability-theory`, `research-line/crm-cosmology`, `research-line/rh-even-dominance`, `research-line/fst-nash`, or `research-line/ai-elite-swr`.
+- **Key Discovery Phrases:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`.
 - **Machine Context:** Use [`research-line/.github/llms.txt`](https://github.com/research-line/.github/blob/main/llms.txt) for machine-readable ecosystem indexing.
 
 ---
 
-<!-- last-checked: 2026-08-06 -->
+<!-- last-checked: 2026-08-14 -->
