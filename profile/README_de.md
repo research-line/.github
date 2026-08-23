@@ -1,3 +1,4 @@
+<!-- last-checked: 2026-08-23 -->
 # research-line
 
 <p align="center">
@@ -6,6 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/GitHub_Org-research--line-0A2540?style=for-the-badge&logo=github" alt="GitHub Org Profile"></a>
+  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Public_Repos-8-blue?style=for-the-badge" alt="Öffentliche Repos"></a>
   <a href="https://github.com/open-bricks"><img src="https://img.shields.io/badge/Ecosystem-open--bricks-blue?style=for-the-badge" alt="Ecosystem open-bricks"></a>
   <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Domain-Open_Science_%26_Math_Physics-purple?style=for-the-badge" alt="Domain Open Science"></a>
   <a href="https://zenodo.org"><img src="https://img.shields.io/badge/Zenodo-DOIs_Archival-0298c3?style=for-the-badge&logo=zenodo" alt="Zenodo Archival DOIs"></a>
@@ -17,11 +19,11 @@
 
 **Open-Access-Forschungsrepositories mit Preprints, mathematischen Beweisnotizen, Jupyter Notebooks, reproduzierbaren Forschungsdaten und Zenodo-DOI-Archivierung.**
 
-`research-line` bündelt öffentliche wissenschaftliche Arbeiten aus der mathematischen Physik (Functional Stability Theory), der Kosmologie modifizierter Gravitation (Curvature Relaxation Model), der routenbezogenen Riemann-Hypothesen-Analyse, der KI-Gesellschaftsforschung (Synthetic Worldview Reconstruction) und der theoretischen Computerbiologie (FST-Nash Chaperon-Dynamiken). Alle Repositories dienen der Inspektion, der Open-Science-Prüfung, dem Peer Review, der Zitation und der weiterführenden Forschung.
+`research-line` bündelt öffentliche wissenschaftliche Arbeiten aus der mathematischen Physik (Functional Stability Theory), der Kosmologie modifizierter Gravitation (Curvature Relaxation Model), der routenbezogenen Riemann-Hypothesen-Analyse, der Zahlentheorie & Hecke-Quotienten-Verifikation (HCT/abc-Vermutung), der KI-Gesellschaftsforschung (Synthetic Worldview Reconstruction) und der theoretischen Computerbiologie (FST-Nash Chaperon-Dynamiken). Alle Repositories dienen der Inspektion, der Open-Science-Prüfung, dem Peer Review, der Zitation und der weiterführenden Forschung.
 
 > [!NOTE]
 > Maschinenlesbarer Ökosystem-Kontext für KI-Agenten, Crawler und automatisierte Tools ist unter **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)** verfügbar.
-> Öffentlicher Index geprüft gegen live GitHub-API: **14.08.2026**.
+> Öffentlicher Index geprüft gegen live GitHub-API: **23. August 2026** (2026-08-23).
 
 > [!IMPORTANT]
 > **Open Science & Statusgrenzen:** Die Repositories dieser Organisation enthalten Forschungscode, Beweisaudits, Preprints und Berechnungsnotebooks. Archivarische Snapshot-DOIs sind auf Zenodo hinterlegt. Bitte beachten Sie die repo-spezifischen `README.md`- und `CITATION.cff`-Dateien bezüglich des konkreten Status (etabliert, konditional, explorativ oder archiviert). Keine der Inhalten stellt medizinische, rechtliche oder finanzielle Beratung dar.
@@ -36,6 +38,7 @@ flowchart TD
         FST["Functional Stability Theory<br/><b>functional-stability-theory</b>"]
         CRM["Kosmologie & Modifizierte Gravitation<br/><b>crm-cosmology</b>"]
         RH["Riemann-Hypothese Routen-Analyse<br/><b>rh-even-dominance</b>"]
+        HCT["abc-Vermutung & Hecke-Annihilatoren<br/><b>abc-hct</b>"]
         SWR["KI-Elite Weltbild-Rekonstruktion<br/><b>ai-elite-swr</b>"]
         FST_NASH["Chaperon- & Faltungstheorie<br/><b>fst-nash</b>"]
         RFEP["RFEP Brückenframework<br/><b>rfep-framework</b> <i>(Archiviert)</i>"]
@@ -56,6 +59,7 @@ flowchart TD
     FST --> Notebooks & Zenodo
     CRM --> Notebooks & Zenodo
     RH --> Notebooks & Zenodo
+    HCT --> Notebooks & Zenodo
     SWR --> Data & Zenodo
     FST_NASH --> Notebooks
     RFEP --> Zenodo
@@ -71,6 +75,7 @@ flowchart TD
 |---|---|---|
 | **Mathematisch-Physikalisches Programm** | **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | Haupt-FST-Hub mit Domain-Beweisen (NS, YM, TU, DE, Hodge, BSD, P-vs-NP), Anwendungen & Reproduzierbarkeit |
 | **Riemann-Hypothesen Routen-Atlas** | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | Konditionaler RH-Atlas mit Verifikations-Skripten, Zertifikaten, Zenodo-Einträgen & Beweisgrenzen |
+| **abc-Vermutung & Hecke-Quotienten-Verifikation** | **[abc-hct](https://github.com/research-line/abc-hct)** | HCT abc-Forschungspapiere, Beweisnotizen, Manin-Symbol-Pairings über Hecke-Algebren und reproduzierbare Rang-Zertifikate ohne Magma |
 | **Kosmologie & Modifizierte Gravitation** | **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | Curvature Relaxation Model (CRM) Arbeiten & Skripte für Checks bezüglich CMB, Pantheon+, MOND & SPARC |
 | **KI-Führungsriegen Weltbild-Analyse** | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | Synthetic Worldview Reconstruction öffentlicher KI-Aussagen mit Preprints, Prompts, Validierungs-Daten & Abbildungen |
 | **Proteinfaltung & Spieltheorie** | **[fst-nash](https://github.com/research-line/fst-nash)** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
@@ -80,11 +85,12 @@ flowchart TD
 
 ## Öffentliches Repository-Verzeichnis
 
-Dieser Index umfasst alle 7 öffentlichen Repositories von `research-line` (Stand: **14.08.2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
+Dieser Index umfasst alle 8 öffentlichen Repositories von `research-line` (Stand: **23. August 2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
 
 | Repository | Status | Fachbereich | Rolle & Beschreibung |
 |---|---|---|---|
 | **[.github](https://github.com/research-line/.github)** | Aktiv | Organisationsprofil | GitHub-Startseite, Standard-Community-Dateien und maschinenlesbarer `llms.txt`-Kontext |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | Aktiv | Zahlentheorie | HCT abc-Forschungsarbeiten, Beweisnotizen, Manin-Symbol-Pairings über Hecke-Algebren und reproduzierbare Hecke-Quotienten-Artefakte ohne Magma |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | Aktiv | KI-Gesellschaftsforschung | Rekonstruktion von Weltbildern führender KI-Akteure mit Arbeiten, Prompts, Validierungen & reproduzierbaren Daten |
 | **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | Aktiv | Kosmologie | Curvature Relaxation Model Arbeiten und Code für modifizierte Gravitationsprüfungen |
 | **[fst-nash](https://github.com/research-line/fst-nash)** | Aktiv | Computerbiologie-Theorie | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
@@ -123,22 +129,35 @@ Einige angewandte Gesundheitspolitik-, Verordnungsrisiko- und Diagnostikprojekte
 | **[entertain-and-more](https://github.com/entertain-and-more)** | Entertainment | Spiele mit KI-Integration, interaktives Schach (ChatAndChess) und Audio-Tools (KlangpultLight) |
 | **[assistassets-ai](https://github.com/assistassets-ai)** | Finanz-KI | Local-First Finanzanalysen, Indikatoren und Assistenz-Tools (FinancialProof) |
 | **[um-bruch](https://github.com/um-bruch)** | Angewandte Gesundheit | Studien zur Versorgungssicherheit, Verordnungsampel und Systemmedizin |
+| **[lukisch](https://github.com/lukisch)** | Persönlich / Core | Persönliches Profil, Core-Entwickler-Repositories und disziplinübergreifende Integration |
 
 ---
 
 ## Aktueller Aktivitäts-Snapshot
 
-Verifizierte Stand-Metadaten via GitHub-API am **14.08.2026**:
+Verifizierte Stand-Metadaten via GitHub-API am **23. August 2026** (2026-08-23):
 
 | Repository | Letzter Push | Ausrichtung & Navigation |
 |---|---:|---|
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **13.08.2026** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **13.08.2026** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **09.08.2026** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
-| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **05.08.2026** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
-| **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **05.08.2026** | KI-Elite-Weltbildrekonstruktion: Preprints, Prompts, Validierungsdaten & Abbildungen |
-| **[.github](https://github.com/research-line/.github)** | **14.08.2026** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
+| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-08-23** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-08-23** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-08-21** | HCT abc-Forschungsarbeiten, Beweisnotizen und reproduzierbare Hecke-Quotienten-Rangzertifikate |
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-20** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
+| **[.github](https://github.com/research-line/.github)** | **2026-08-23** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-08-09** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
+| **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | KI-Elite-Weltbildrekonstruktion: Preprints, Prompts, Validierungsdaten & Abbildungen |
+| **[rfep-framework](https://github.com/research-line/rfep-framework)** | **2026-03-19** | Früheres RFEP-Brückenmaterial; aufbewahrt für Zitationen, Vergleiche und Historie |
 
 ---
 
-<!-- last-checked: 2026-08-14 -->
+## Zitation & Leseweise dieser Repositories
+
+- **Aktueller Status:** Nutzen Sie die `README.md`- und `CITATION.cff`-Dateien des jeweiligen Repositories für offizielle Zitationsmetadaten und aktuelle Statusbeschreibungen.
+- **Archivarische Datensätze:** Betrachten Sie Zenodo-DOI-Einträge als persistente Publikations-Snapshots, während GitHub den lebenden Code, laufende Audits und Beweisaktualisierungen bereitstellt.
+- **Suchbegriffe:** Nutzen Sie exakte Repository-Namen wie `research-line/abc-hct`, `research-line/functional-stability-theory`, `research-line/crm-cosmology`, `research-line/rh-even-dominance`, `research-line/fst-nash` oder `research-line/ai-elite-swr`.
+- **Wichtige Discovery-Phrasen:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line abc-hct`, `research-line abc conjecture Hecke quotient certificates`, `research-line Manin symbol pairing engine`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`.
+- **Maschinenlesbarer Kontext:** Nutzen Sie [`research-line/.github/llms.txt`](https://github.com/research-line/.github/blob/main/llms.txt) für KI-Crawler und automatisierte Agenten.
+
+---
+
+<!-- last-checked: 2026-08-23 -->

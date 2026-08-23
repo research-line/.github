@@ -2,6 +2,27 @@
 
 All notable changes to the `research-line/.github` repository will be documented in this file.
 
+## [1.0.5] - 2026-08-23
+
+### Changed
+- Synchronized live public activity snapshot with latest GitHub pushes (`rh-even-dominance` 2026-08-23, `functional-stability-theory` 2026-08-23, `abc-hct` 2026-08-21, `fst-nash` 2026-08-20, `.github` 2026-08-23).
+- Refreshed verification timestamps to `2026-08-23` across `profile/README.md`, `profile/README_de.md`, `README.md`, and `llms.txt`.
+- Enhanced `SECURITY.md` with comprehensive bilingual security policy, open science invariants, and direct security contacts (`security@open-bricks.org`, `security@ellmos.ai`, `support@lukasgeiger.com`, `lukas@open-bricks.org`).
+- Re-verified complete 8 public repository inventory, strict privacy boundaries, and 1:1 bilingual parity.
+
+## [1.0.4] - 2026-08-21
+
+### Added
+- Integrated public repository `abc-hct` (High-Characteristic-Torsion abc research papers, Manin symbol pairings over Hecke algebras, and deterministic rank certificates) into `profile/README.md`, `profile/README_de.md`, `README.md`, and `llms.txt`.
+- Added `abc-hct` node to the Mermaid Open-Science architecture flowchart under `Research_Pillars`.
+- Added automated contract test suite `tests/test_profile_parity.py` to enforce bilingual parity, encoding validity, public repository inventory, strict privacy boundaries, and timestamp synchronization.
+
+### Changed
+- Refreshed verification timestamps across all profile files to `2026-08-21`.
+- Synchronized live public activity snapshot with latest GitHub pushes (`abc-hct` 2026-08-21, `functional-stability-theory` 2026-08-21, `rh-even-dominance` 2026-08-21, `fst-nash` 2026-08-20, `.github` 2026-08-21).
+- Updated public repository count badge and inventory from 7 to 8 public repositories.
+- Updated discovery phrases and search terms in `profile/README.md`, `profile/README_de.md`, and `llms.txt`.
+
 ## [1.0.3] - 2026-08-14
 
 ### Changed

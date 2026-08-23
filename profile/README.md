@@ -1,3 +1,4 @@
+<!-- last-checked: 2026-08-23 -->
 # research-line
 
 <p align="center">
@@ -6,6 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/GitHub_Org-research--line-0A2540?style=for-the-badge&logo=github" alt="GitHub Org Profile"></a>
+  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Public_Repos-8-blue?style=for-the-badge" alt="Public Repos"></a>
   <a href="https://github.com/open-bricks"><img src="https://img.shields.io/badge/Ecosystem-open--bricks-blue?style=for-the-badge" alt="Ecosystem open-bricks"></a>
   <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Domain-Open_Science_%26_Math_Physics-purple?style=for-the-badge" alt="Domain Open Science"></a>
   <a href="https://zenodo.org"><img src="https://img.shields.io/badge/Zenodo-DOIs_Archival-0298c3?style=for-the-badge&logo=zenodo" alt="Zenodo Archival DOIs"></a>
@@ -17,11 +19,11 @@
 
 **Open-access research repositories with preprints, computational notebooks, proof notes, reproducible research data, and Zenodo DOI archival records.**
 
-`research-line` collects public research work across mathematical physics (Functional Stability Theory), modified-gravity cosmology (Curvature Relaxation Model), conditional Riemann Hypothesis route analysis, AI-society studies (Synthetic Worldview Reconstruction), and computational biology theory (FST-Nash chaperone dynamics). The repositories are intended for inspection, open science, peer review, citation, and follow-up research.
+`research-line` collects public research work across mathematical physics (Functional Stability Theory), modified-gravity cosmology (Curvature Relaxation Model), conditional Riemann Hypothesis route analysis, number theory & Hecke quotient verification (HCT/abc conjecture), AI-society studies (Synthetic Worldview Reconstruction), and computational biology theory (FST-Nash chaperone dynamics). The repositories are intended for inspection, open science, peer review, citation, and follow-up research.
 
 > [!NOTE]
 > Machine-readable ecosystem context and repository mappings for AI agents and automated tools are available in **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)**.
-> Public index verified against live GitHub API: **2026-08-14**.
+> Public index verified against live GitHub API: **2026-08-23**.
 
 > [!IMPORTANT]
 > **Open Science & Status Boundaries:** Repositories in this organization contain research code, proof audits, preprints, and computational notebooks. Archival snapshot DOIs are hosted on Zenodo. Always check individual repository READMEs and `CITATION.cff` files for specific status boundaries (established, conditional, exploratory, or archived). None of the materials constitute medical, legal, financial, or investment advice.
@@ -36,6 +38,7 @@ flowchart TD
         FST["Functional Stability Theory<br/><b>functional-stability-theory</b>"]
         CRM["Cosmology & Modified Gravity<br/><b>crm-cosmology</b>"]
         RH["Riemann Hypothesis Route Analysis<br/><b>rh-even-dominance</b>"]
+        HCT["abc Conjecture & Hecke Annihilators<br/><b>abc-hct</b>"]
         SWR["AI Elite Worldview Reconstruction<br/><b>ai-elite-swr</b>"]
         FST_NASH["Chaperone & Folding Game Theory<br/><b>fst-nash</b>"]
         RFEP["RFEP Bridge Framework<br/><b>rfep-framework</b> <i>(Archived)</i>"]
@@ -56,6 +59,7 @@ flowchart TD
     FST --> Notebooks & Zenodo
     CRM --> Notebooks & Zenodo
     RH --> Notebooks & Zenodo
+    HCT --> Notebooks & Zenodo
     SWR --> Data & Zenodo
     FST_NASH --> Notebooks
     RFEP --> Zenodo
@@ -71,6 +75,7 @@ flowchart TD
 |---|---|---|
 | **Broad Mathematical Physics Programme** | **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | Main FST hub with domain proofs (NS, YM, TU, DE, Hodge, BSD, P-vs-NP), applications, and reproducibility surfaces |
 | **Riemann Hypothesis Route Analysis** | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | Conditional RH route atlas with verification scripts, certificates, Zenodo records, and proof-audit boundaries |
+| **abc Conjecture & Hecke Quotient Verification** | **[abc-hct](https://github.com/research-line/abc-hct)** | HCT abc research papers, proof notes, Manin symbol pairing engine over Hecke algebras, and reproducible no-Magma rank certificates |
 | **Cosmology & Modified Gravity** | **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | Curvature Relaxation Model papers and scripts for observational checks across CMB, Pantheon+, MOND, and SPARC |
 | **AI Leadership Worldview Analysis** | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | Synthetic Worldview Reconstruction of AI elite statements, prompts, validation outputs, figures, and research data |
 | **Protein Folding & Game Theory** | **[fst-nash](https://github.com/research-line/fst-nash)** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
@@ -80,11 +85,12 @@ flowchart TD
 
 ## Public Repository Directory
 
-This index covers all 7 public `research-line` repositories visible on GitHub as of **2026-08-14**. Private or internal draft repositories are intentionally excluded from the public directory.
+This index covers all 8 public `research-line` repositories visible on GitHub as of **2026-08-23**. Private or internal draft repositories are intentionally excluded from the public directory.
 
 | Repository | Status | Domain | Public Role & Description |
 |---|---|---|---|
 | **[.github](https://github.com/research-line/.github)** | Active | Organization Profile | GitHub start page, default community-health files, and machine-readable `llms.txt` context |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | Active | Number Theory | HCT abc research papers, proof notes, Manin symbol pairings over Hecke algebras, and reproducible no-Magma Hecke quotient artifacts |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | Active | AI Society Research | Worldview reconstruction of public AI-leader statements with papers, prompts, validation outputs, figures, and reproducible data |
 | **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | Active | Cosmology | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC contexts |
 | **[fst-nash](https://github.com/research-line/fst-nash)** | Active | Computational Biology | Potential-game diagnostics for chaperone systems and protein-folding regimes |
@@ -123,21 +129,24 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 | **[entertain-and-more](https://github.com/entertain-and-more)** | Entertainment | Games with AI integration, interactive chess (ChatAndChess), and audio tools (KlangpultLight) |
 | **[assistassets-ai](https://github.com/assistassets-ai)** | Financial AI | Local-first financial analysis, indicators, and assistant tools (FinancialProof) |
 | **[um-bruch](https://github.com/um-bruch)** | Applied Health | Public health policy studies, prescribing risk analysis, and systems medicine |
+| **[lukisch](https://github.com/lukisch)** | Personal / Core | Personal profile, core developer repositories, and cross-discipline integration |
 
 ---
 
 ## Current Public Activity Snapshot
 
-Live activity verified via GitHub API on **2026-08-14**:
+Live activity verified via GitHub API on **2026-08-23**:
 
 | Repository | Last Public Push | Focus & Navigation Purpose |
 |---|---:|---|
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-13** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-08-13** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
+| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-08-23** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-08-23** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-08-21** | HCT abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates |
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-20** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
+| **[.github](https://github.com/research-line/.github)** | **2026-08-23** | Organization profile, community health files, and machine-readable `llms.txt` |
 | **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-08-09** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
-| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-08-05** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data |
-| **[.github](https://github.com/research-line/.github)** | **2026-08-14** | Organization profile, community health files, and machine-readable `llms.txt` |
+| **[rfep-framework](https://github.com/research-line/rfep-framework)** | **2026-03-19** | Earlier RFEP bridge material; retained for citation, baseline comparison, and historical context |
 
 ---
 
@@ -145,10 +154,10 @@ Live activity verified via GitHub API on **2026-08-14**:
 
 - **Current Status:** Prefer the repository `README.md` and `CITATION.cff` where present for official citation metadata and current status annotations.
 - **Archival Records:** Treat Zenodo DOI records as archival publication snapshots, while GitHub hosts live code, ongoing updates, and proof-audit updates.
-- **Search Terms:** Search by exact repository names such as `research-line/functional-stability-theory`, `research-line/crm-cosmology`, `research-line/rh-even-dominance`, `research-line/fst-nash`, or `research-line/ai-elite-swr`.
-- **Key Discovery Phrases:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`.
+- **Search Terms:** Search by exact repository names such as `research-line/abc-hct`, `research-line/functional-stability-theory`, `research-line/crm-cosmology`, `research-line/rh-even-dominance`, `research-line/fst-nash`, or `research-line/ai-elite-swr`.
+- **Key Discovery Phrases:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line abc-hct`, `research-line abc conjecture Hecke quotient certificates`, `research-line Manin symbol pairing engine`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`.
 - **Machine Context:** Use [`research-line/.github/llms.txt`](https://github.com/research-line/.github/blob/main/llms.txt) for machine-readable ecosystem indexing.
 
 ---
 
-<!-- last-checked: 2026-08-14 -->
+<!-- last-checked: 2026-08-23 -->
