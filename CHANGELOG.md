@@ -2,6 +2,51 @@
 
 All notable changes to the `research-line/.github` repository will be documented in this file.
 
+## [1.0.7] - 2026-09-10
+
+### Changed
+- Refreshed start page verification timestamps across all index surfaces (`profile/README.md`, `profile/README_de.md`, `README.md`, `llms.txt`, and `tests/test_profile_parity.py`) to `2026-09-10` (`10. September 2026`).
+- Synchronized live public activity snapshot with latest GitHub pushes from live API (`functional-stability-theory` 2026-09-10, `abc-hct` 2026-09-10, `rh-even-dominance` 2026-09-02, `.github` 2026-09-10, `fst-nash` 2026-08-20, `crm-cosmology` 2026-08-09, `ai-elite-swr` 2026-08-05).
+- Integrated `locuterra` (civic tech / location-based digital commons demonstrator) into related Um:bruch research directory in `profile/README.md`, `profile/README_de.md`, and `llms.txt`.
+- Enhanced external discoverability for `research-line/abc-hct` on GitHub by setting its official Zenodo DOI homepage (`https://doi.org/10.5281/zenodo.21916900`) and adding targeted repository topics (`open-science`, `reproducible-research`, `zenodo`).
+
+### Verified
+- Live GitHub API inventory confirmed: 11 repositories total across `research-line` — 8 public (7 active, `rfep-framework` archived) and 3 private repositories.
+- Strict zero-leak invariant maintained: zero private repositories exposed in public documentation or indices.
+- All automated contract tests (`tests/test_profile_parity.py`) pass 100% (9/9).
+- Mermaid diagram syntax verified (0 errors across all markdown files via `lint_mermaid.py`).
+
+## [1.0.6] - 2026-08-24
+
+### Fixed
+- Corrected two push dates that were off by one day. `rh-even-dominance` and
+  `functional-stability-theory` were listed as `2026-08-23`; the API reports
+  `2026-08-22T23:51:52Z` and `2026-08-22T22:19:58Z`. Both fall on the 23rd once
+  converted to CEST, so the previous pass recorded local time while the index
+  claims the figures are "verified via GitHub API" - which serves UTC. Anyone
+  re-checking would have seen the 22nd and concluded the index was wrong.
+- Every snapshot heading in `README.md`, `profile/README.md`,
+  `profile/README_de.md` and `llms.txt` now states that the dates are the UTC day
+  of `pushed_at`, so the next pass does not repeat the conversion.
+
+### Changed
+- Verification timestamp advanced to `2026-08-24` across all four index surfaces.
+
+### Verified
+- Live read-only API on 2026-08-24: 11 repositories total - 8 public (7 active,
+  `rfep-framework` archived) and 3 private. The public count of 8 and the
+  active/archived split in the index match that readback.
+- No private repository name appears in any public surface. Checked explicitly
+  for all three.
+- All 8 public repositories are named in `README.md`, both profile READMEs and
+  `llms.txt`; `abc-hct` included with a valid link.
+- Remaining, deliberately untouched: the snapshot tables are not strictly sorted
+  by date - `.github` (2026-08-23) sits between entries dated 2026-08-20 and
+  2026-08-09. That predates this pass, and reordering someone else's document
+  without a mandate risks more than it fixes.
+- No commit, push or GitHub write took place. The task's Definition of Done
+  requires the local diff to remain reviewable until separate approval.
+
 ## [1.0.5] - 2026-08-23
 
 ### Changed

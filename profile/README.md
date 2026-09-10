@@ -1,4 +1,4 @@
-<!-- last-checked: 2026-08-23 -->
+<!-- last-checked: 2026-09-10 -->
 # research-line
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 > [!NOTE]
 > Machine-readable ecosystem context and repository mappings for AI agents and automated tools are available in **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)**.
-> Public index verified against live GitHub API: **2026-08-23**.
+> Public index verified against live GitHub API: **2026-09-10**.
 
 > [!IMPORTANT]
 > **Open Science & Status Boundaries:** Repositories in this organization contain research code, proof audits, preprints, and computational notebooks. Archival snapshot DOIs are hosted on Zenodo. Always check individual repository READMEs and `CITATION.cff` files for specific status boundaries (established, conditional, exploratory, or archived). None of the materials constitute medical, legal, financial, or investment advice.
@@ -85,7 +85,7 @@ flowchart TD
 
 ## Public Repository Directory
 
-This index covers all 8 public `research-line` repositories visible on GitHub as of **2026-08-23**. Private or internal draft repositories are intentionally excluded from the public directory.
+This index covers all 8 public `research-line` repositories visible on GitHub as of **2026-09-10**. Private or internal draft repositories are intentionally excluded from the public directory.
 
 | Repository | Status | Domain | Public Role & Description |
 |---|---|---|---|
@@ -110,6 +110,7 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 | **[verordnungsampel](https://github.com/um-bruch/verordnungsampel)** | Health Informatics | Research-use prescribing-rule inspection software for public German rule sets |
 | **[multiaxial-diagnostic-system](https://github.com/um-bruch/multiaxial-diagnostic-system)** | Clinical Psychology | Multiaxial diagnostic framework for structured clinical assessment research |
 | **[system-medicine](https://github.com/um-bruch/system-medicine)** | Systems Medicine | Knowledge-graph work for pathway-centric differential medical reasoning |
+| **[locuterra](https://github.com/um-bruch/locuterra)** | Civic Tech / Commons | Public-interest location-based civic network demonstrator and local commons platform |
 
 ---
 
@@ -135,18 +136,19 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 
 ## Current Public Activity Snapshot
 
-Live activity verified via GitHub API on **2026-08-23**:
+Live activity verified via GitHub API on **2026-09-10**. Dates are the UTC day
+of the API's `pushed_at` field, not a local-time conversion:
 
 | Repository | Last Public Push | Focus & Navigation Purpose |
 |---|---:|---|
-| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-08-23** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-08-23** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
-| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-08-21** | HCT abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-09-10** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-09-10** | HCT abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates |
+| **[.github](https://github.com/research-line/.github)** | **2026-09-10** | Organization profile, community health files, and machine-readable `llms.txt` |
+| **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-09-02** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
 | **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-20** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
-| **[.github](https://github.com/research-line/.github)** | **2026-08-23** | Organization profile, community health files, and machine-readable `llms.txt` |
 | **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-08-09** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data |
-| **[rfep-framework](https://github.com/research-line/rfep-framework)** | **2026-03-19** | Earlier RFEP bridge material; retained for citation, baseline comparison, and historical context |
+| **[rfep-framework](https://github.com/research-line/rfep-framework)** | **2026-03-19** | Earlier RFEP bridge material; retained for citation, baseline comparison, and historical context *(Archived)* |
 
 ---
 
@@ -160,4 +162,4 @@ Live activity verified via GitHub API on **2026-08-23**:
 
 ---
 
-<!-- last-checked: 2026-08-23 -->
+<!-- last-checked: 2026-09-10 -->

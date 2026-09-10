@@ -1,4 +1,4 @@
-## Last-checked: 2026-08-23
+## Last-checked: 2026-09-10
 
 # research-line
 
@@ -28,12 +28,13 @@ Public research-line repositories:
 
 Private or internal repositories are intentionally omitted from the public directory.
 
-Recent public activity snapshot (verified 2026-08-23):
-- 2026-08-23: https://github.com/research-line/rh-even-dominance - Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries.
-- 2026-08-23: https://github.com/research-line/functional-stability-theory - Main FST hub for domain proofs, applications, and reproducibility material.
-- 2026-08-21: https://github.com/research-line/abc-hct - HCT abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates.
+Recent public activity snapshot (verified 2026-09-10; dates are the UTC day of
+the API's pushed_at field, not a local-time conversion):
+- 2026-09-10: https://github.com/research-line/functional-stability-theory - Main FST hub for domain proofs, applications, and reproducibility material.
+- 2026-09-10: https://github.com/research-line/abc-hct - HCT abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates.
+- 2026-09-10: https://github.com/research-line/.github - Organization profile, community health files, and machine-readable llms.txt.
+- 2026-09-02: https://github.com/research-line/rh-even-dominance - Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries.
 - 2026-08-20: https://github.com/research-line/fst-nash - Potential-game diagnostics for chaperone systems and protein-folding regimes.
-- 2026-08-23: https://github.com/research-line/.github - Organization profile, community health files, and machine-readable llms.txt.
 - 2026-08-09: https://github.com/research-line/crm-cosmology - Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC.
 - 2026-08-05: https://github.com/research-line/ai-elite-swr - Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data.
 - 2026-03-19: https://github.com/research-line/rfep-framework - Earlier RFEP bridge material; retained for citation, baseline comparison, and historical context.
@@ -43,6 +44,7 @@ Related Um:bruch repositories:
 - https://github.com/um-bruch/verordnungsampel
 - https://github.com/um-bruch/multiaxial-diagnostic-system
 - https://github.com/um-bruch/system-medicine
+- https://github.com/um-bruch/locuterra
 
 Sister organizations in the open-bricks umbrella:
 - https://github.com/open-bricks
