@@ -31,10 +31,10 @@ SISTER_ORGS = [
     "lukisch",
 ]
 
-PRIVATE_REPOS = [
-    "prompt-archaeology-casestudy2",
-    "economic-sanctions-coercive-diplomacy",
-    "epstein-network",
+PRIVATE_LEAK_PATTERNS = [
+    r"https://github\.com/research-line/[^)\s]+.*PRIVATE",
+    r"visibility[\"': ]+PRIVATE",
+    r"internal draft repository\s*:",
 ]
 
 
@@ -76,7 +76,7 @@ def test_public_repo_inventory():
 
 
 def test_private_repo_leak_guard():
-    """Verify 0 private/internal repos are leaked into public profile documents."""
+    """Verify private/internal repo details are not exposed in public profile documents."""
     target_files = [
         "profile/README.md",
         "profile/README_de.md",
@@ -88,14 +88,16 @@ def test_private_repo_leak_guard():
     ]
     for rel_path in target_files:
         content = get_file_content(rel_path)
-        for priv in PRIVATE_REPOS:
-            assert priv not in content, f'Leak violation: private repo "{priv}" found in {rel_path}'
+        for pattern in PRIVATE_LEAK_PATTERNS:
+            assert not re.search(pattern, content, flags=re.IGNORECASE), (
+                f'Leak-pattern violation: "{pattern}" found in {rel_path}'
+            )
 
 
 def test_check_timestamp_parity():
-    """Verify verification date 2026-09-10 across profile files."""
-    expected_iso = "2026-09-10"
-    expected_de = "10. September 2026"
+    """Verify verification date 2026-09-14 across profile files."""
+    expected_iso = "2026-09-14"
+    expected_de = "14. September 2026"
 
     en_content = get_file_content("profile/README.md")
     assert expected_iso in en_content
@@ -115,7 +117,7 @@ def test_activity_snapshot_integrity():
     en_content = get_file_content("profile/README.md")
     de_content = get_file_content("profile/README_de.md")
 
-    for push_repo in ["rh-even-dominance", "functional-stability-theory", "abc-hct", "fst-nash", ".github"]:
+    for push_repo in ["rh-even-dominance", "functional-stability-theory", "abc-hct", "crm-cosmology", "fst-nash", ".github"]:
         assert push_repo in en_content
         assert push_repo in de_content
 

@@ -1,4 +1,4 @@
-<!-- last-checked: 2026-09-10 -->
+<!-- last-checked: 2026-09-14 -->
 # research-line
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 > [!NOTE]
 > Maschinenlesbarer Ökosystem-Kontext für KI-Agenten, Crawler und automatisierte Tools ist unter **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)** verfügbar.
-> Öffentlicher Index geprüft gegen live GitHub-API: **10. September 2026** (2026-09-10).
+> Öffentlicher Index geprüft gegen live GitHub-API: **14. September 2026** (2026-09-14).
 
 > [!IMPORTANT]
 > **Open Science & Statusgrenzen:** Die Repositories dieser Organisation enthalten Forschungscode, Beweisaudits, Preprints und Berechnungsnotebooks. Archivarische Snapshot-DOIs sind auf Zenodo hinterlegt. Bitte beachten Sie die repo-spezifischen `README.md`- und `CITATION.cff`-Dateien bezüglich des konkreten Status (etabliert, konditional, explorativ oder archiviert). Keine der Inhalten stellt medizinische, rechtliche oder finanzielle Beratung dar.
@@ -85,7 +85,7 @@ flowchart TD
 
 ## Öffentliches Repository-Verzeichnis
 
-Dieser Index umfasst alle 8 öffentlichen Repositories von `research-line` (Stand: **10. September 2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
+Dieser Index umfasst alle 8 öffentlichen Repositories von `research-line` (Stand: **14. September 2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
 
 | Repository | Status | Fachbereich | Rolle & Beschreibung |
 |---|---|---|---|
@@ -136,17 +136,17 @@ Einige angewandte Gesundheitspolitik-, Verordnungsrisiko- und Diagnostikprojekte
 
 ## Aktueller Aktivitäts-Snapshot
 
-Verifizierte Stand-Metadaten via GitHub-API am **10. September 2026** (2026-09-10).
+Verifizierte Stand-Metadaten via GitHub-API am **14. September 2026** (2026-09-14).
 Die Datumsangaben sind der UTC-Tag von `pushed_at`, nicht in Ortszeit umgerechnet:
 
 | Repository | Letzter Push | Ausrichtung & Navigation |
 |---|---:|---|
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-09-10** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
-| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-09-10** | HCT abc-Forschungsarbeiten, Beweisnotizen und reproduzierbare Hecke-Quotienten-Rangzertifikate |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-09-13** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-09-13** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
 | **[.github](https://github.com/research-line/.github)** | **2026-09-10** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-09-10** | HCT abc-Forschungsarbeiten, Beweisnotizen und reproduzierbare Hecke-Quotienten-Rangzertifikate |
 | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-09-02** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
 | **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-20** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-08-09** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | KI-Elite-Weltbildrekonstruktion: Preprints, Prompts, Validierungsdaten & Abbildungen |
 | **[rfep-framework](https://github.com/research-line/rfep-framework)** | **2026-03-19** | Früheres RFEP-Brückenmaterial; aufbewahrt für Zitationen, Vergleiche und Historie *(Archiviert)* |
 
@@ -162,4 +162,4 @@ Die Datumsangaben sind der UTC-Tag von `pushed_at`, nicht in Ortszeit umgerechne
 
 ---
 
-<!-- last-checked: 2026-09-10 -->
+<!-- last-checked: 2026-09-14 -->

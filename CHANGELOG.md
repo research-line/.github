@@ -2,6 +2,17 @@
 
 All notable changes to the `research-line/.github` repository will be documented in this file.
 
+## [1.0.8] - 2026-09-14
+
+### Changed
+- Refreshed start page verification timestamps across all index surfaces (`profile/README.md`, `profile/README_de.md`, `README.md`, `llms.txt`, and `tests/test_profile_parity.py`) to `2026-09-14` (`14. September 2026`).
+- Re-verified the complete public repository directory via live GitHub API: 8 public repositories remain visible (`.github`, `abc-hct`, `ai-elite-swr`, `crm-cosmology`, `fst-nash`, `functional-stability-theory`, `rfep-framework`, and `rh-even-dominance`); no public repository was missing from the profile.
+- Synchronized the live public activity snapshot with latest GitHub pushes (`functional-stability-theory` 2026-09-13, `crm-cosmology` 2026-09-13, `.github` 2026-09-10, `abc-hct` 2026-09-10, `rh-even-dominance` 2026-09-02, `fst-nash` 2026-08-20, `ai-elite-swr` 2026-08-05, `rfep-framework` 2026-03-19).
+
+### Verified
+- Strict public/private boundary maintained: private research draft repositories remain intentionally absent from public profile surfaces.
+- Contract tests cover the refreshed timestamp, complete public inventory, generic private-leak patterns, ecosystem links, Mermaid blocks, UTF-8 German umlauts, and security contacts.
+
 ## [1.0.7] - 2026-09-10
 
 ### Changed
