@@ -96,8 +96,8 @@ def test_private_repo_leak_guard():
 
 def test_check_timestamp_parity():
     """Verify verification date 2026-09-14 across profile files."""
-    expected_iso = "2026-09-14"
-    expected_de = "14. September 2026"
+    expected_iso = "2026-09-20"
+    expected_de = "20. September 2026"
 
     en_content = get_file_content("profile/README.md")
     assert expected_iso in en_content

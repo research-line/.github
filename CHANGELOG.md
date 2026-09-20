@@ -2,6 +2,29 @@
 
 All notable changes to the `research-line/.github` repository will be documented in this file.
 
+## [2026-09-20]
+
+### Added & Updated
+- **Org Profile Health & Startseiten-Audit (Routine: GITHUBBOT_ORGA_README_MD_STARTSEITE_HEALTH):** Turnusgemäßes Re-Audit und Aktualisierung des Organisationsprofils gegen die Live-GitHub-API.
+- **Aktueller Aktivitäts-Snapshot (Stand 2026-09-20):** Aktualisierung der `pushed_at`-Aktivitätsdaten über alle Profilflächen (`profile/README.md`, `profile/README_de.md`, `README.md`, `llms.txt`):
+  - `functional-stability-theory`: Letzter Push am `2026-09-20` (FST-Beweis- und Programmdokumentation)
+  - `.github`: Stand, CI-Härtung und Profil-Audit am `2026-09-20`
+  - `crm-cosmology`: Letzter Push am `2026-09-19` (Modifizierte Gravitation & Kosmologie-Notebooks)
+  - `rh-even-dominance`: Letzter Push am `2026-09-19` (Beweisaudits & Reduktionsanalysen)
+  - `abc-hct`: Letzter Push am `2026-09-19` (Hecke-Quotienten-Zertifikate)
+  - `fst-nash`: 2026-08-20
+  - `ai-elite-swr`: 2026-08-05
+  - `rfep-framework`: 2026-03-19 (Archiviert)
+- **Discoverability & SEO-Enrichment (20/20 Parität):**
+  - `research-line/rh-even-dominance`: Ergänzt um `analytic-number-theory`, `local-first`, `zero-egress` (20/20 Topics).
+  - `research-line/ai-elite-swr`: Ergänzt um `computational-social-science`, `qualitative-analysis`, `worldview-analysis`, `zero-egress`, `local-first`, `reproducible-research` (20/20 Topics).
+  - `fst-nash` gemäß `config/orgs.json` (`exclude_writes`) strikt unberührt gelassen.
+- **Badges & Härtung:**
+  - Hinzufügen des `Security_SLA-48h_Response` Badges und des Verifikationsbadges (`Verified-2026--09--20-blue` bzw. `Geprüft-2026--09--20-blue`).
+- **Vertragstests (`tests/test_profile_parity.py`):**
+  - Zeitstempel-Assertion auf `2026-09-20` / `20. September 2026` aktualisiert; 9/9 Tests bestanden.
+- **Zero-Leak-Invariante:** Bestätigung von 8 öffentlichen Repositories und lückenlosem Schutz der 3 internen Repositories.
+
 ## [1.0.8] - 2026-09-14
 
 ### Changed
