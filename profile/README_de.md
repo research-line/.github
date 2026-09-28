@@ -1,4 +1,4 @@
-<!-- last-checked: 2026-09-20 -->
+<!-- last-checked: 2026-09-28 -->
 # research-line
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://zenodo.org"><img src="https://img.shields.io/badge/Zenodo-DOIs_Archival-0298c3?style=for-the-badge&logo=zenodo" alt="Zenodo Archival DOIs"></a>
   <a href="https://github.com/research-line/.github/blob/main/llms.txt"><img src="https://img.shields.io/badge/LLM--Kontext-llms.txt-412991?style=for-the-badge" alt="LLM Kontext llms.txt"></a>
   <a href="https://github.com/research-line/.github/blob/main/SECURITY.md"><img src="https://img.shields.io/badge/Security_SLA-48h_Response-brightgreen?style=for-the-badge" alt="Security SLA 48h Response"></a>
-  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Gepr%C3%BCft-2026--09--20-blue?style=for-the-badge" alt="Geprüft 2026-09-20"></a>
+  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Gepr%C3%BCft-2026--09--28-blue?style=for-the-badge" alt="Geprüft 2026-09-28"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/Lizenz-CC--BY_4.0_%2F_MIT-green?style=for-the-badge" alt="Lizenz CC-BY 4.0 / MIT"></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 > [!NOTE]
 > Maschinenlesbarer Ökosystem-Kontext für KI-Agenten, Crawler und automatisierte Tools ist unter **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)** verfügbar.
-> Öffentlicher Index geprüft gegen live GitHub-API: **20. September 2026** (2026-09-20).
+> Öffentlicher Index geprüft gegen live GitHub-API: **28. September 2026** (2026-09-28).
 
 > [!IMPORTANT]
 > **Open Science & Statusgrenzen:** Die Repositories dieser Organisation enthalten Forschungscode, Beweisaudits, Preprints und Berechnungsnotebooks. Archivarische Snapshot-DOIs sind auf Zenodo hinterlegt. Bitte beachten Sie die repo-spezifischen `README.md`- und `CITATION.cff`-Dateien bezüglich des konkreten Status (etabliert, konditional, explorativ oder archiviert). Keine der Inhalten stellt medizinische, rechtliche oder finanzielle Beratung dar.
@@ -87,7 +87,7 @@ flowchart TD
 
 ## Öffentliches Repository-Verzeichnis
 
-Dieser Index umfasst alle 8 öffentlichen Repositories von `research-line` (Stand: **20. September 2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
+Dieser Index umfasst alle 8 öffentlichen Repositories von `research-line` (Stand: **28. September 2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
 
 | Repository | Status | Fachbereich | Rolle & Beschreibung |
 |---|---|---|---|
@@ -138,15 +138,15 @@ Einige angewandte Gesundheitspolitik-, Verordnungsrisiko- und Diagnostikprojekte
 
 ## Aktueller Aktivitäts-Snapshot
 
-Verifizierte Stand-Metadaten via GitHub-API am **20. September 2026** (2026-09-20).
+Verifizierte Stand-Metadaten via GitHub-API am **28. September 2026** (2026-09-28).
 Die Datumsangaben sind der UTC-Tag von `pushed_at`, nicht in Ortszeit umgerechnet:
 
 | Repository | Letzter Push | Ausrichtung & Navigation |
 |---|---:|---|
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-09-20** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-09-19** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
-| **[.github](https://github.com/research-line/.github)** | **2026-09-20** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
-| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-09-19** | HCT abc-Forschungsarbeiten, Beweisnotizen und reproduzierbare Hecke-Quotienten-Rangzertifikate |
+| **[.github](https://github.com/research-line/.github)** | **2026-09-28** | Organisationsprofil, Community-Dateien & maschinenlesbares `llms.txt` |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-09-27** | Haupt-FST-Hub für Domain-Beweise, Anwendungen & Reproduzierbarkeitsflächen |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-09-26** | HCT abc-Forschungsarbeiten, Beweisnotizen und reproduzierbare Hecke-Quotienten-Rangzertifikate |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-09-25** | Curvature Relaxation Model Arbeiten & Code für modifizierte Gravitationsprüfungen |
 | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-09-19** | Konditionaler Riemann-Hypothesen-Atlas mit Skripten, Zertifikaten & Zenodo-Einträgen |
 | **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-20** | Potentialspiel-Diagnostik für Chaperon-Systeme und Proteinfaltungs-Regime |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | KI-Elite-Weltbildrekonstruktion: Preprints, Prompts, Validierungsdaten & Abbildungen |
@@ -164,4 +164,4 @@ Die Datumsangaben sind der UTC-Tag von `pushed_at`, nicht in Ortszeit umgerechne
 
 ---
 
-<!-- last-checked: 2026-09-20 -->
+<!-- last-checked: 2026-09-28 -->

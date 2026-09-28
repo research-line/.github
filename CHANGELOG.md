@@ -2,6 +2,26 @@
 
 All notable changes to the `research-line/.github` repository will be documented in this file.
 
+## [2026-09-28]
+
+### Added & Updated
+- **Org Profile Health & Startseiten-Audit (Routine: GITHUBBOT_ORGA_README_MD_STARTSEITE_HEALTH):** Turnusgemäßes Re-Audit und Aktualisierung des Organisationsprofils gegen die Live-GitHub-API.
+- **Aktueller Aktivitäts-Snapshot (Stand 2026-09-28):** Aktualisierung der `pushed_at`-Aktivitätsdaten über alle Profilflächen (`profile/README.md`, `profile/README_de.md`, `README.md`, `llms.txt`):
+  - `.github`: Stand, CI-Härtung und Profil-Audit am `2026-09-28`
+  - `functional-stability-theory`: Letzter Push am `2026-09-27` (FST-Beweis- und Programmdokumentation)
+  - `abc-hct`: Letzter Push am `2026-09-26` (Hecke-Quotienten-Zertifikate)
+  - `crm-cosmology`: Letzter Push am `2026-09-25` (Modifizierte Gravitation & Kosmologie-Notebooks)
+  - `rh-even-dominance`: `2026-09-19` (Beweisaudits & Reduktionsanalysen)
+  - `fst-nash`: `2026-08-20` (Chaperon- & Proteinfaltungs-Spieltheorie)
+  - `ai-elite-swr`: `2026-08-05` (Synthetic Worldview Reconstruction)
+  - `rfep-framework`: `2026-03-19` (Archiviertes Grundlagenframework)
+- **Badges & Härtung:**
+  - Verifikationsbadges auf `Verified-2026--09--28-blue` bzw. `Geprüft-2026--09--28-blue` aktualisiert.
+  - Shields.io Badges, Mermaid-Diagramme (`lint_mermaid.py` 0 Fehler in 9 Dateien) und zweisprachige HTML- und Markdown-Parität verifiziert.
+- **Vertragstests (`tests/test_profile_parity.py`):**
+  - Zeitstempel-Assertion auf `2026-09-28` / `28. September 2026` aktualisiert; 9/9 Tests bestanden (100% grün).
+- **Zero-Leak-Invariante:** Bestätigung von 8 öffentlichen Repositories und lückenlosem Schutz der 3 internen Repositories.
+
 ## [2026-09-20]
 
 ### Added & Updated
