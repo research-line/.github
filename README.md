@@ -2,7 +2,7 @@
 
 This repository maintains the public GitHub start page, default community-health files, and machine-readable index for [research-line](https://github.com/research-line).
 
-Public index last checked: **2026-09-28**
+Public index last checked: **2026-10-18**
 
 ## Public Repository Directory
 
@@ -29,17 +29,17 @@ This directory mirrors the 8 public repositories currently visible in the resear
 
 ## Current Public Activity Snapshot
 
-Recent public pushes verified via GitHub API on **2026-09-28**. Dates are the
+Recent public pushes verified via GitHub API on **2026-10-18**. Dates are the
 UTC day of the API's `pushed_at` field, not a local-time conversion:
 
 | Repository | Last Public Push | Why It Matters for Navigation |
 |---|---:|---|
-| **[.github](https://github.com/research-line/.github)** | **2026-09-28** | Organization profile, community health files, and machine-readable `llms.txt` |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-09-27** | Main FST hub; route broad mathematical-physics, domain-proof, and application searches here first |
-| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-09-26** | High-Characteristic-Torsion abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-09-25** | Cosmology surface for Curvature Relaxation Model papers, scripts, and observational-check context |
+| **[.github](https://github.com/research-line/.github)** | **2026-10-18** | Organization profile, community health files, and machine-readable `llms.txt` |
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-10-15** | Computational-biology theory surface for potential-game protein-folding diagnostics |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-10-08** | Main FST hub; route broad mathematical-physics, domain-proof, and application searches here first |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-10-04** | High-Characteristic-Torsion abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-10-03** | Cosmology surface for Curvature Relaxation Model papers, scripts, and observational-check context |
 | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-09-19** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-08-20** | Computational-biology theory surface for potential-game protein-folding diagnostics |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | AI-society research surface for Synthetic Worldview Reconstruction material, prompts, and validation outputs |
 | **[rfep-framework](https://github.com/research-line/rfep-framework)** | **2026-03-19** | Earlier RFEP bridge material; retained for citation, baseline comparison, and historical context *(Archived)* |
 
@@ -49,4 +49,4 @@ Use exact repository names when searching or citing this organization: `research
 
 Core search phrases: `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line abc-hct`, `research-line abc conjecture Hecke quotient certificates`, `research-line Manin symbol pairing engine`, `research-line proof notes Zenodo DOI records`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line conditional Riemann Hypothesis proof audit`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line potential-game protein-folding diagnostics`, `research-line chaperone systems FST-Nash`, `research-line AI elite worldview reconstruction`.
 
-<!-- last-checked: 2026-09-28 -->
+<!-- last-checked: 2026-10-18 -->

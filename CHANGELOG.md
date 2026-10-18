@@ -2,6 +2,28 @@
 
 All notable changes to the `research-line/.github` repository will be documented in this file.
 
+## [2026-10-18]
+
+### Added & Updated
+- **Org Profile Health & Startseiten-Audit (Routine: GITHUBBOT_ORGA_README_MD_STARTSEITE_HEALTH):** Turnusgemäßes Re-Audit des Organisationsprofils gegen die Live-GitHub-API (Akteur: claude-desktop, Host ASUS-GEI).
+- **Register-Vollabgleich (lückenlos):** `gh api orgs/research-line/repos --paginate` liefert 8 öffentliche Repositories (7 aktiv + 1 archiviert). Der Index aller vier Startseitenflächen führt genau diese 8 — **keine Lücke, kein Drift**. Die 5 verlinkten `um-bruch`-Projekte (`regressangst`, `verordnungsampel`, `multiaxial-diagnostic-system`, `system-medicine`, `locuterra`) sind live ebenfalls vollständig vorhanden.
+- **Aktueller Aktivitäts-Snapshot (Stand 2026-10-18):** Aktualisierung der `pushed_at`-Aktivitätsdaten über alle Profilflächen (`profile/README.md`, `profile/README_de.md`, `README.md`, `llms.txt`); die Reihenfolge der Snapshot-Tabellen wurde entsprechend neu sortiert:
+  - `.github`: Profil-Audit und Startseiten-Refresh am `2026-10-18`
+  - `fst-nash`: Letzter Push am `2026-10-15` (vorher `2026-08-20` — stärkste Veränderung dieses Laufs, Aufstieg auf Platz 2)
+  - `functional-stability-theory`: `2026-10-08` (vorher `2026-09-27`)
+  - `abc-hct`: `2026-10-04` (vorher `2026-09-26`)
+  - `crm-cosmology`: `2026-10-03` (vorher `2026-09-25`)
+  - `rh-even-dominance`: `2026-09-19` (unverändert)
+  - `ai-elite-swr`: `2026-08-05` (unverändert)
+  - `rfep-framework`: `2026-03-19` (archiviertes Grundlagenframework, unverändert)
+- **Badges & zweisprachige Parität:**
+  - Verifikationsbadges auf `Verified-2026--10--18-blue` bzw. `Geprüft-2026--10--18-blue` aktualisiert, Repo-Zähler bleibt bei 8.
+  - Prüftermine in EN und DE paritätisch nachgezogen (`2026-10-18` / `18. Oktober 2026`), `last-checked`-Kommentare und `## Last-checked`-Kopf in `llms.txt` ebenfalls.
+  - Bestehende Shields.io-Badges, GFM-LLM-Note-/Important-Callouts, Mermaid-Architekturdiagramm (`flowchart TD`) und Start-Here-Tabellen unverändert erhalten.
+- **Vertragstests (`tests/test_profile_parity.py`):**
+  - Zeitstempel-Assertion auf `2026-10-18` / `18. Oktober 2026` nachgezogen; 9/9 Tests bestanden.
+- **Zero-Leak-Invariante:** Bestätigung von 8 öffentlichen Repositories; keine privaten oder internen Repositories in den öffentlichen Flächen.
+
 ## [2026-09-28]
 
 ### Added & Updated
