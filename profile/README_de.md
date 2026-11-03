@@ -1,4 +1,4 @@
-<!-- last-checked: 2026-10-18 -->
+<!-- last-checked: 2026-11-03 -->
 # research-line
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://zenodo.org"><img src="https://img.shields.io/badge/Zenodo-DOIs_Archival-0298c3?style=for-the-badge&logo=zenodo" alt="Zenodo Archival DOIs"></a>
   <a href="https://github.com/research-line/.github/blob/main/llms.txt"><img src="https://img.shields.io/badge/LLM--Kontext-llms.txt-412991?style=for-the-badge" alt="LLM Kontext llms.txt"></a>
   <a href="https://github.com/research-line/.github/blob/main/SECURITY.md"><img src="https://img.shields.io/badge/Security_SLA-48h_Response-brightgreen?style=for-the-badge" alt="Security SLA 48h Response"></a>
-  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Gepr%C3%BCft-2026--10--18-blue?style=for-the-badge" alt="Geprüft 2026-10-18"></a>
+  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Gepr%C3%BCft-2026--11--03-blue?style=for-the-badge" alt="Geprüft 2026-11-03"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/Lizenz-CC--BY_4.0_%2F_MIT-green?style=for-the-badge" alt="Lizenz CC-BY 4.0 / MIT"></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 > [!NOTE]
 > Maschinenlesbarer Ökosystem-Kontext für KI-Agenten, Crawler und automatisierte Tools ist unter **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)** verfügbar.
-> Öffentlicher Index geprüft gegen live GitHub-API: **18. Oktober 2026** (2026-10-18).
+> Öffentlicher Index geprüft gegen live GitHub-API: **3. November 2026** (2026-11-03).
 
 > [!IMPORTANT]
 > **Open Science & Statusgrenzen:** Die Repositories dieser Organisation enthalten Forschungscode, Beweisaudits, Preprints und Berechnungsnotebooks. Archivarische Snapshot-DOIs sind auf Zenodo hinterlegt. Bitte beachten Sie die repo-spezifischen `README.md`- und `CITATION.cff`-Dateien bezüglich des konkreten Status (etabliert, konditional, explorativ oder archiviert). Keine der Inhalten stellt medizinische, rechtliche oder finanzielle Beratung dar.
@@ -87,7 +87,7 @@ flowchart TD
 
 ## Öffentliches Repository-Verzeichnis
 
-Dieser Index umfasst alle 8 öffentlichen Repositories von `research-line` (Stand: **18. Oktober 2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
+Dieser Index umfasst alle 8 öffentlichen Repositories von `research-line` (Stand: **3. November 2026**). Private oder interne Entwicklungs-Repositories sind im öffentlichen Verzeichnis bewusst ausgeschlossen.
 
 | Repository | Status | Fachbereich | Rolle & Beschreibung |
 |---|---|---|---|
@@ -159,9 +159,9 @@ Die Datumsangaben sind der UTC-Tag von `pushed_at`, nicht in Ortszeit umgerechne
 - **Aktueller Status:** Nutzen Sie die `README.md`- und `CITATION.cff`-Dateien des jeweiligen Repositories für offizielle Zitationsmetadaten und aktuelle Statusbeschreibungen.
 - **Archivarische Datensätze:** Betrachten Sie Zenodo-DOI-Einträge als persistente Publikations-Snapshots, während GitHub den lebenden Code, laufende Audits und Beweisaktualisierungen bereitstellt.
 - **Suchbegriffe:** Nutzen Sie exakte Repository-Namen wie `research-line/abc-hct`, `research-line/functional-stability-theory`, `research-line/crm-cosmology`, `research-line/rh-even-dominance`, `research-line/fst-nash` oder `research-line/ai-elite-swr`.
-- **Wichtige Discovery-Phrasen:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line abc-hct`, `research-line abc conjecture Hecke quotient certificates`, `research-line Manin symbol pairing engine`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`.
+- **Wichtige Discovery-Phrasen:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line abc-hct`, `research-line abc conjecture Hecke quotient certificates`, `research-line Manin symbol pairing engine`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`, `research-line chemische Stabilität FST-II`, `research-line K41 Kolmogorov Turbulenz`, `research-line 4-Zyklus Potentialspiele Chaperon`, `research-line Joshi ATS Ledger`.
 - **Maschinenlesbarer Kontext:** Nutzen Sie [`research-line/.github/llms.txt`](https://github.com/research-line/.github/blob/main/llms.txt) für KI-Crawler und automatisierte Agenten.
 
 ---
 
-<!-- last-checked: 2026-10-18 -->
+<!-- last-checked: 2026-11-03 -->

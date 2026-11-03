@@ -2,6 +2,29 @@
 
 All notable changes to the `research-line/.github` repository will be documented in this file.
 
+## [2026-11-03]
+
+### Added & Updated
+- **Org Profile Health & Startseiten-Audit (Routine: GITHUBBOT_ORGA_README_MD_STARTSEITE_HEALTH):** Turnusgemäßes Re-Audit des Organisationsprofils gegen die Live-GitHub-API (Akteur: Gemini / Antigravity, Host WORKSTATION-LG).
+- **Register-Vollabgleich (lückenlos & Zero-Leak-Wahrung):** `gh api orgs/research-line/repos --paginate` liefert 11 Repositories insgesamt — genau 8 öffentliche Repositories (7 aktiv + 1 archiviert) und 3 private Forschungsrepositories (`economic-sanctions-coercive-diplomacy`, `prompt-archaeology-casestudy2`, `epstein-network`). Der öffentliche Index aller Startseitenflächen führt lückenlos genau die 8 öffentlichen Repositories; private Repositories bleiben strikt geschützt (**Zero-Leak-Invariante**). Die 5 verlinkten `um-bruch`-Projekte sind live verifiziert.
+- **Aktueller Aktivitäts-Snapshot (Stand 2026-11-03):** Aktualisierung der `pushed_at`-Aktivitätsdaten und Navigationszwecke über alle Profilflächen (`profile/README.md`, `profile/README_de.md`, `README.md`, `llms.txt`):
+  - `.github`: Profil-Audit, Discoverability-Aktualisierung und Paritätsabgleich am `2026-11-03`
+  - `functional-stability-theory`: Letzter Push am `2026-11-02` (K41 Tanogami/Mishra Bibliografie-Härtung, FST-II v3 Manuskripte zur chemischen Stabilität und Gate-Skripte)
+  - `fst-nash`: Letzter Push am `2026-11-01` (4-Zyklus Potentialspiel-Vertragstests & v1.4 PDF-Textlayer-Verifikation)
+  - `crm-cosmology`: Letzter Push am `2026-11-01` (Pfad-B Discoverability, interaktive Sequenz- und Flussdiagramm-Optimierung bezüglich CMB, Pantheon+, MOND, SPARC)
+  - `abc-hct`: Letzter Push am `2026-10-31` (ATS-Substanz v0.3, Joshi ATS Ledger, Hecke-Quotienten-Zertifikate und Manin-Symbol-Pairings)
+  - `rh-even-dominance`: `2026-09-19` (unverändert)
+  - `ai-elite-swr`: `2026-08-05` (unverändert)
+  - `rfep-framework`: `2026-03-19` (archiviertes Grundlagenframework, unverändert)
+- **Ecosystem & Discoverability:**
+  - `dev-bricks`-Eintrag im Schwester-Ökosystem um `companion-for-agy` synchronisiert (gemäß Flottenstandard D-20261030-011).
+  - Such- und Auffindbarkeitsbegriffe um aktuelle Forschungsschwerpunkte erweitert (chemische Stabilität FST-II, K41 Kolmogorov-Turbulenz, 4-Zyklus Potentialspiele, Joshi ATS Ledger).
+- **Badges & zweisprachige Parität:**
+  - Verifikationsbadges auf `Verified-2026--11--03-blue` bzw. `Geprüft-2026--11--03-blue` aktualisiert.
+  - Prüftermine in EN und DE paritätisch nachgezogen (`2026-11-03` / `3. November 2026`), `last-checked`-Kommentare und `## Last-checked`-Kopf in `llms.txt` synchronisiert.
+- **Vertragstests (`tests/test_profile_parity.py`):**
+  - Zeitstempel-Assertion auf `2026-11-03` / `3. November 2026` nachgezogen; 9/9 Tests bestanden.
+
 ## [2026-10-18]
 
 ### Added & Updated
