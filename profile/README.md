@@ -1,4 +1,4 @@
-<!-- last-checked: 2026-10-18 -->
+<!-- last-checked: 2026-11-03 -->
 # research-line
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://zenodo.org"><img src="https://img.shields.io/badge/Zenodo-DOIs_Archival-0298c3?style=for-the-badge&logo=zenodo" alt="Zenodo Archival DOIs"></a>
   <a href="https://github.com/research-line/.github/blob/main/llms.txt"><img src="https://img.shields.io/badge/LLM--Context-llms.txt-412991?style=for-the-badge" alt="LLM Context llms.txt"></a>
   <a href="https://github.com/research-line/.github/blob/main/SECURITY.md"><img src="https://img.shields.io/badge/Security_SLA-48h_Response-brightgreen?style=for-the-badge" alt="Security SLA 48h Response"></a>
-  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Verified-2026--10--18-blue?style=for-the-badge" alt="Verified 2026-10-18"></a>
+  <a href="https://github.com/research-line"><img src="https://img.shields.io/badge/Verified-2026--11--03-blue?style=for-the-badge" alt="Verified 2026-11-03"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC--BY_4.0_%2F_MIT-green?style=for-the-badge" alt="License CC-BY 4.0 / MIT"></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 > [!NOTE]
 > Machine-readable ecosystem context and repository mappings for AI agents and automated tools are available in **[llms.txt](https://github.com/research-line/.github/blob/main/llms.txt)**.
-> Public index verified against live GitHub API: **2026-10-18**.
+> Public index verified against live GitHub API: **2026-11-03**.
 
 > [!IMPORTANT]
 > **Open Science & Status Boundaries:** Repositories in this organization contain research code, proof audits, preprints, and computational notebooks. Archival snapshot DOIs are hosted on Zenodo. Always check individual repository READMEs and `CITATION.cff` files for specific status boundaries (established, conditional, exploratory, or archived). None of the materials constitute medical, legal, financial, or investment advice.
@@ -87,7 +87,7 @@ flowchart TD
 
 ## Public Repository Directory
 
-This index covers all 8 public `research-line` repositories visible on GitHub as of **2026-10-18**. Private or internal draft repositories are intentionally excluded from the public directory.
+This index covers all 8 public `research-line` repositories visible on GitHub as of **2026-11-03**. Private or internal draft repositories are intentionally excluded from the public directory.
 
 | Repository | Status | Domain | Public Role & Description |
 |---|---|---|---|
@@ -126,7 +126,7 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 | **[ellmos-ai](https://github.com/ellmos-ai)** | LLM-OS / AI Infra | Agent operating systems (BACH, Rinnsal), memory pillar (.MEMORY, USMC, gardener), MCP servers |
 | **[file-bricks](https://github.com/file-bricks)** | Desktop Utilities | Local-first PySide6 desktop file management, duplicate detection, and storage apps |
 | **[doc-bricks](https://github.com/doc-bricks)** | Document Tools | Markdown tools, PDF processing, OCR engines, and document workflow software |
-| **[dev-bricks](https://github.com/dev-bricks)** | Developer Tools | Developer utilities and IDEs (DevCenter, CodeBox, pythonbox, MethodenAnalyser, CareCenter) |
+| **[dev-bricks](https://github.com/dev-bricks)** | Developer Tools | Developer tools, bridges, and IDEs (DevCenter, CodeBox, pythonbox, companion-for-agy, CareCenter) |
 | **[research-line](https://github.com/research-line)** | Open Science | Open-access research in mathematical physics, cosmology, number theory, and AI society |
 | **[biotec-line](https://github.com/biotec-line)** | Bioinformatics | Genomic variant tools, VCF processing, and clinical genetics software |
 | **[entertain-and-more](https://github.com/entertain-and-more)** | Entertainment | Games with AI integration, interactive chess (ChatAndChess), and audio tools (KlangpultLight) |
@@ -138,16 +138,16 @@ Several applied health policy, prescribing risk, and diagnostic projects live un
 
 ## Current Public Activity Snapshot
 
-Live activity verified via GitHub API on **2026-10-18**. Dates are the UTC day
+Live activity verified via GitHub API on **2026-11-03**. Dates are the UTC day
 of the API's `pushed_at` field, not a local-time conversion:
 
 | Repository | Last Public Push | Focus & Navigation Purpose |
 |---|---:|---|
-| **[.github](https://github.com/research-line/.github)** | **2026-10-18** | Organization profile, community health files, and machine-readable `llms.txt` |
-| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-10-15** | Potential-game diagnostics for chaperone systems and protein-folding regimes |
-| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-10-08** | Main hub for FST, domain proofs, mathematical-physics applications, and reproducibility material |
-| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-10-04** | HCT abc research papers, proof notes, and reproducible no-Magma Hecke quotient rank certificates |
-| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-10-03** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
+| **[.github](https://github.com/research-line/.github)** | **2026-11-03** | Organization profile, community health files, and machine-readable `llms.txt` |
+| **[functional-stability-theory](https://github.com/research-line/functional-stability-theory)** | **2026-11-02** | Main hub for FST, domain proofs, mathematical-physics applications, K41 bibliography hardening, and chemical stability manuscripts |
+| **[fst-nash](https://github.com/research-line/fst-nash)** | **2026-11-01** | Potential-game diagnostics for chaperone systems, protein-folding regimes, and 4-cycle potential game verification |
+| **[crm-cosmology](https://github.com/research-line/crm-cosmology)** | **2026-11-01** | Curvature Relaxation Model papers and code for modified-gravity checks across CMB, Pantheon+, MOND, and SPARC |
+| **[abc-hct](https://github.com/research-line/abc-hct)** | **2026-10-31** | High-Characteristic-Torsion abc research papers, Joshi ATS ledger v0.3, Hecke quotient rank certificates, and Manin symbol pairing engine |
 | **[rh-even-dominance](https://github.com/research-line/rh-even-dominance)** | **2026-09-19** | Conditional Riemann Hypothesis research atlas with scripts, certificates, Zenodo records, and proof-audit boundaries |
 | **[ai-elite-swr](https://github.com/research-line/ai-elite-swr)** | **2026-08-05** | Synthetic Worldview Reconstruction of AI Elite worldviews: papers, prompts, validation outputs, figures, and data |
 | **[rfep-framework](https://github.com/research-line/rfep-framework)** | **2026-03-19** | Earlier RFEP bridge material; retained for citation, baseline comparison, and historical context *(Archived)* |
@@ -159,9 +159,9 @@ of the API's `pushed_at` field, not a local-time conversion:
 - **Current Status:** Prefer the repository `README.md` and `CITATION.cff` where present for official citation metadata and current status annotations.
 - **Archival Records:** Treat Zenodo DOI records as archival publication snapshots, while GitHub hosts live code, ongoing updates, and proof-audit updates.
 - **Search Terms:** Search by exact repository names such as `research-line/abc-hct`, `research-line/functional-stability-theory`, `research-line/crm-cosmology`, `research-line/rh-even-dominance`, `research-line/fst-nash`, or `research-line/ai-elite-swr`.
-- **Key Discovery Phrases:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line abc-hct`, `research-line abc conjecture Hecke quotient certificates`, `research-line Manin symbol pairing engine`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`.
+- **Key Discovery Phrases:** `research-line open-access research software`, `research-line Zenodo DOI reproducible research`, `research-line abc-hct`, `research-line abc conjecture Hecke quotient certificates`, `research-line Manin symbol pairing engine`, `research-line Functional Stability Theory`, `research-line FST domain proofs`, `research-line Curvature Relaxation Model CMB Pantheon MOND SPARC`, `research-line conditional Riemann Hypothesis proof audit`, `research-line AI elite worldview reconstruction`, `research-line chaperone systems FST-Nash`, `research-line chemical stability FST-II`, `research-line K41 Kolmogorov turbulence`, `research-line 4-cycle potential games chaperone`, `research-line Joshi ATS ledger`.
 - **Machine Context:** Use [`research-line/.github/llms.txt`](https://github.com/research-line/.github/blob/main/llms.txt) for machine-readable ecosystem indexing.
 
 ---
 
-<!-- last-checked: 2026-10-18 -->
+<!-- last-checked: 2026-11-03 -->
